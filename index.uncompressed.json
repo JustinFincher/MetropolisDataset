@@ -253,18 +253,6 @@
       "addedTime": "2020-02-19T01:29:09.0897674+08:00"
     },
     {
-      "id": "ad3ba497-ac33-4056-96f4-cc563a91c874",
-      "name": "Mercedes House",
-      "desc": "New York, United States",
-      "zoom": 19.0,
-      "angleY": 160.0,
-      "lat": 40.7675806,
-      "lon": -73.9921092,
-      "size": 7333601,
-      "level": 0,
-      "addedTime": "2020-02-19T01:33:39.7846054+08:00"
-    },
-    {
       "id": "671f800a-632b-49cb-8560-b7ddc3f69ea8",
       "name": "The Cathedral Church of St. John the Divine",
       "desc": "New York, United States",
@@ -313,16 +301,52 @@
       "addedTime": "2020-02-19T05:26:44.5589161+08:00"
     },
     {
-      "id": "717f5ec5-b5a0-4b95-9047-72ae17b31239",
-      "name": "Fordham University Lincoln Center",
+      "id": "b36b9f4c-21b5-4d77-83b9-9ee409d2ae3e",
+      "name": "Mercedes House",
       "desc": "New York, United States",
       "zoom": 18.0,
       "angleY": 0.0,
-      "lat": 40.7717,
-      "lon": -73.9852507,
-      "size": 10057068,
+      "lat": 40.7675806,
+      "lon": -73.9921092,
+      "size": 9891324,
       "level": 0,
-      "addedTime": "2020-02-19T05:32:45.9420671+08:00"
+      "addedTime": "2020-02-19T05:58:46.8627947+08:00"
+    },
+    {
+      "id": "6b804242-f398-4370-818e-501b054b1727",
+      "name": "One Financial Center",
+      "desc": "Boston, Massachusetts, United States",
+      "zoom": 18.0,
+      "angleY": 0.0,
+      "lat": 42.3522403,
+      "lon": -71.0560828,
+      "size": 6611140,
+      "level": 0,
+      "addedTime": "2020-02-19T06:05:16.6570383+08:00"
+    },
+    {
+      "id": "6f51d678-09f4-4598-a774-699c2ec235f8",
+      "name": "Atrium Mall",
+      "desc": "Chicago, Illinois, United States",
+      "zoom": 18.0,
+      "angleY": 0.0,
+      "lat": 41.8854736,
+      "lon": -87.63201,
+      "size": 8588752,
+      "level": 0,
+      "addedTime": "2020-02-19T06:14:59.2589434+08:00"
+    },
+    {
+      "id": "f15fb76a-efd1-4554-8eb7-1fa55300b84f",
+      "name": "1010 Midtown",
+      "desc": "Atlanta, Georgia, United States",
+      "zoom": 18.0,
+      "angleY": 0.0,
+      "lat": 33.7839209,
+      "lon": -84.3835605,
+      "size": 15370582,
+      "level": 0,
+      "addedTime": "2020-02-19T06:22:19.9617761+08:00"
     }
   ]
 }
