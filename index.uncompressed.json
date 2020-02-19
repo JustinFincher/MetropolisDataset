@@ -416,9 +416,21 @@
       "angleY": 50.0,
       "lat": 45.411,
       "lon": -75.662,
-      "size": 0,
+      "size": 18331320,
       "level": 0,
       "addedTime": 1582145429
+    },
+    {
+      "id": "440c4806-bdfc-4e47-93be-cc853a289332",
+      "name": "Canadian Museum of History",
+      "desc": "Gatineau, Quebec, Canada",
+      "zoom": 18.1,
+      "angleY": 50.0,
+      "lat": 45.4299536,
+      "lon": -75.709347,
+      "size": 0,
+      "level": 0,
+      "addedTime": 1582146096
     }
   ]
 }
