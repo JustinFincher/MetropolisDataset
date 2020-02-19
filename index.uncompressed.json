@@ -25,18 +25,6 @@
       "addedTime": 1581622575
     },
     {
-      "id": "cdef0038-05fa-4fd6-88aa-f9685cf929a9",
-      "name": "Rittenhouse Square",
-      "desc": "Philadelphia, Pennsylvania, United States",
-      "zoom": 18.0,
-      "angleY": 60.0,
-      "lat": 39.949,
-      "lon": -75.1725394,
-      "size": 8219608,
-      "level": 2,
-      "addedTime": 1581627858
-    },
-    {
       "id": "24a1a09c-6565-432a-9cc6-41aac856d59b",
       "name": "Lake Shore East Park",
       "desc": "Chicago, Illinois, United States",
@@ -61,18 +49,6 @@
       "addedTime": 1581628737
     },
     {
-      "id": "db4246e8-977a-439f-84e9-80f4fd92b0eb",
-      "name": "Empire State Building",
-      "desc": "New York, United States",
-      "zoom": 17.0,
-      "angleY": 0.0,
-      "lat": 40.749,
-      "lon": -73.9857,
-      "size": 15209193,
-      "level": 0,
-      "addedTime": 1581706332
-    },
-    {
       "id": "fa3d2683-485a-4f07-9487-bbda333c33f6",
       "name": "Robert F. Kennedy Bridge",
       "desc": "New York, United States",
@@ -83,30 +59,6 @@
       "size": 5744906,
       "level": 0,
       "addedTime": 1581707183
-    },
-    {
-      "id": "52cf5601-a2fd-47ec-9c2c-e9e250b6645c",
-      "name": "Wells Fargo Center",
-      "desc": "Portland, Oregon, United States",
-      "zoom": 18.0,
-      "angleY": 0.0,
-      "lat": 45.5147,
-      "lon": -122.679,
-      "size": 7564135,
-      "level": 1,
-      "addedTime": 1581709489
-    },
-    {
-      "id": "60fb0789-e0bf-477d-9127-abadaf8cff78",
-      "name": "Transamerica Pyramid",
-      "desc": "San Francisco, CA, United States",
-      "zoom": 18.0,
-      "angleY": 140.0,
-      "lat": 37.795,
-      "lon": -122.4024,
-      "size": 12134171,
-      "level": 0,
-      "addedTime": 1581711432
     },
     {
       "id": "5dd72829-237d-486e-841b-386b88d42840",
@@ -277,18 +229,6 @@
       "addedTime": 1582047936
     },
     {
-      "id": "a60224df-c2cc-40f3-baf1-c4dfc7144b33",
-      "name": "Statue of Liberty National Monument",
-      "desc": "New York, United States",
-      "zoom": 19.0,
-      "angleY": 0.0,
-      "lat": 40.6892,
-      "lon": -74.0445,
-      "size": 3061253,
-      "level": 1,
-      "addedTime": 1582048374
-    },
-    {
       "id": "1e9ee8ef-f2ab-4c78-ae63-a944b0f7aeef",
       "name": "St Andrews Roman Catholic Church",
       "desc": "New York, United States",
@@ -443,6 +383,66 @@
       "size": 11351080,
       "level": 0,
       "addedTime": 1582106522
+    },
+    {
+      "id": "e6fe0660-0c71-48d0-9a2f-a1c57107328c",
+      "name": "Wells Fargo Center",
+      "desc": "Portland, Oregon, United States",
+      "zoom": 18.1,
+      "angleY": 0.0,
+      "lat": 45.5147,
+      "lon": -122.679,
+      "size": 14747819,
+      "level": 1,
+      "addedTime": 1582136970
+    },
+    {
+      "id": "f0fa6b9a-d7ea-43d1-91f2-aeb17ab0c71f",
+      "name": "Rittenhouse Square",
+      "desc": "Philadelphia, Pennsylvania, United States",
+      "zoom": 18.1,
+      "angleY": 0.0,
+      "lat": 39.9490002145732,
+      "lon": -75.172541152998,
+      "size": 17389650,
+      "level": 0,
+      "addedTime": 1582137155
+    },
+    {
+      "id": "b0628bbf-3d17-4b76-9b39-a320f45b24a0",
+      "name": "Empire State Building",
+      "desc": "New York, United States",
+      "zoom": 17.1,
+      "angleY": 0.0,
+      "lat": 40.749,
+      "lon": -73.9857,
+      "size": 41028182,
+      "level": 0,
+      "addedTime": 1582137606
+    },
+    {
+      "id": "29522903-892e-4906-b9aa-0e0c08c1840b",
+      "name": "Transamerica Pyramid",
+      "desc": "San Francisco, CA, United States",
+      "zoom": 18.1,
+      "angleY": 0.0,
+      "lat": 37.7950000459474,
+      "lon": -122.402399262408,
+      "size": 29546800,
+      "level": 0,
+      "addedTime": 1582137960
+    },
+    {
+      "id": "7a4b177e-d8c2-4b54-8ba7-3ad19a82a5e7",
+      "name": "Statue of Liberty National Monument",
+      "desc": "New York, United States",
+      "zoom": 19.1,
+      "angleY": 0.0,
+      "lat": 40.6891999893976,
+      "lon": -74.0445001808958,
+      "size": 6440455,
+      "level": 0,
+      "addedTime": 1582138381
     }
   ]
 }
