@@ -25,18 +25,6 @@
       "addedTime": 1581622575
     },
     {
-      "id": "24a1a09c-6565-432a-9cc6-41aac856d59b",
-      "name": "Lake Shore East Park",
-      "desc": "Chicago, Illinois, United States",
-      "zoom": 17.0,
-      "angleY": 160.0,
-      "lat": 41.884,
-      "lon": -87.617,
-      "size": 5335874,
-      "level": 0,
-      "addedTime": 1581628528
-    },
-    {
       "id": "1b3c3f3e-f6fc-43e5-84cf-fd19741f8268",
       "name": "Soldier Field",
       "desc": "Chicago, Illinois, United States",
@@ -47,18 +35,6 @@
       "size": 11468921,
       "level": 0,
       "addedTime": 1581628737
-    },
-    {
-      "id": "fa3d2683-485a-4f07-9487-bbda333c33f6",
-      "name": "Robert F. Kennedy Bridge",
-      "desc": "New York, United States",
-      "zoom": 17.0,
-      "angleY": 100.0,
-      "lat": 40.7802,
-      "lon": -73.925,
-      "size": 5744906,
-      "level": 0,
-      "addedTime": 1581707183
     },
     {
       "id": "5dd72829-237d-486e-841b-386b88d42840",
@@ -109,30 +85,6 @@
       "addedTime": 1581787356
     },
     {
-      "id": "7feb7d78-2dd4-481d-9430-14652c2b0916",
-      "name": "Point State Park",
-      "desc": "Pittsburgh, Pennsylvania, United States",
-      "zoom": 18.0,
-      "angleY": 50.0,
-      "lat": 40.4419608,
-      "lon": -80.0063226,
-      "size": 5067252,
-      "level": 0,
-      "addedTime": 1581787614
-    },
-    {
-      "id": "48dda554-7440-4f98-a24b-fb96cd35c9cb",
-      "name": "Hollywood Sign",
-      "desc": "Los Angeles, California, United States",
-      "zoom": 17.0,
-      "angleY": 0.0,
-      "lat": 34.1337022,
-      "lon": -118.3218792,
-      "size": 7893515,
-      "level": 0,
-      "addedTime": 1581790232
-    },
-    {
       "id": "5fe705ae-8abb-41dd-a6d9-8b0e28381762",
       "name": "Oceanside Pier Surfing Area",
       "desc": "Oceanside, California, United States",
@@ -145,30 +97,6 @@
       "addedTime": 1581791195
     },
     {
-      "id": "e22472c3-bc00-44cb-8774-b190a4a1ecb0",
-      "name": "Husky Stadium",
-      "desc": "Seattle, Washington, United States",
-      "zoom": 18.0,
-      "angleY": 340.0,
-      "lat": 47.6502509,
-      "lon": -122.3016754,
-      "size": 5462448,
-      "level": 0,
-      "addedTime": 1581961281
-    },
-    {
-      "id": "30a3fed8-6f46-446d-a41f-1e7216c90292",
-      "name": "Séminaire De Québec",
-      "desc": "Quebec City, Quebec, Canada",
-      "zoom": 19.0,
-      "angleY": 0.0,
-      "lat": 46.8149,
-      "lon": -71.206,
-      "size": 4011107,
-      "level": 0,
-      "addedTime": 1581963332
-    },
-    {
       "id": "c6c107e8-fb43-4ee3-a55f-2b2845cb075c",
       "name": "Canadian Museum for Human Rights",
       "desc": "Winnipeg, Manitoba, Canada",
@@ -179,18 +107,6 @@
       "size": 6517382,
       "level": 0,
       "addedTime": 1582044797
-    },
-    {
-      "id": "4dd8a16b-b9da-466d-82ee-a4fcacb3c561",
-      "name": "375 Pearl Street",
-      "desc": "New York, United States",
-      "zoom": 19.0,
-      "angleY": -20.0,
-      "lat": 40.7115,
-      "lon": -74.0014,
-      "size": 6473132,
-      "level": 0,
-      "addedTime": 1582046749
     },
     {
       "id": "28e4b1b2-2048-4a13-ab1f-96ab4fe28e9b",
@@ -443,6 +359,90 @@
       "size": 6440455,
       "level": 0,
       "addedTime": 1582138381
+    },
+    {
+      "id": "c8de1f4f-c9e3-4a37-99e8-783ed912516e",
+      "name": "375 Pearl Street",
+      "desc": "New York, United States",
+      "zoom": 19.1,
+      "angleY": 340.0,
+      "lat": 40.7115,
+      "lon": -74.0014,
+      "size": 11984838,
+      "level": 0,
+      "addedTime": 1582139042
+    },
+    {
+      "id": "3edfd550-2958-4d27-a04f-0fbf384fd0fb",
+      "name": "Séminaire De Québec",
+      "desc": "Quebec City, Quebec, Canada",
+      "zoom": 19.1,
+      "angleY": 0.0,
+      "lat": 46.8148999995917,
+      "lon": -71.2060000001971,
+      "size": 6655702,
+      "level": 0,
+      "addedTime": 1582139128
+    },
+    {
+      "id": "4f3d1579-822d-49b3-9b72-f731baa30b8e",
+      "name": "Husky Stadium",
+      "desc": "Seattle, Washington, United States",
+      "zoom": 18.1,
+      "angleY": 340.0,
+      "lat": 47.6502509,
+      "lon": -122.3016754,
+      "size": 14651289,
+      "level": 0,
+      "addedTime": 1582139250
+    },
+    {
+      "id": "a0c325f5-66da-452b-8c56-37b553573755",
+      "name": "Hollywood Sign",
+      "desc": "Los Angeles, California, United States",
+      "zoom": 18.1,
+      "angleY": 0.0,
+      "lat": 34.13496,
+      "lon": -118.322,
+      "size": 12963488,
+      "level": 0,
+      "addedTime": 1582139544
+    },
+    {
+      "id": "706191a6-2f03-4bcf-b116-798b2ad2b052",
+      "name": "Point State Park",
+      "desc": "Pittsburgh, Pennsylvania, United States",
+      "zoom": 18.1,
+      "angleY": 50.0,
+      "lat": 40.4419608,
+      "lon": -80.0063226,
+      "size": 10696689,
+      "level": 0,
+      "addedTime": 1582139757
+    },
+    {
+      "id": "9f5abb1e-a6d8-4c76-88c2-b86d55bb6556",
+      "name": "Robert F. Kennedy Bridge",
+      "desc": "New York, United States",
+      "zoom": 17.1,
+      "angleY": 50.0,
+      "lat": 40.782,
+      "lon": -73.925,
+      "size": 10794414,
+      "level": 0,
+      "addedTime": 1582140057
+    },
+    {
+      "id": "f1be959b-577f-4b56-be83-cec371deecd1",
+      "name": "Lake Shore East Park",
+      "desc": "Chicago, Illinois, United States",
+      "zoom": 17.1,
+      "angleY": 50.0,
+      "lat": 41.886,
+      "lon": -87.615,
+      "size": 13671970,
+      "level": 0,
+      "addedTime": 1582140228
     }
   ]
 }
