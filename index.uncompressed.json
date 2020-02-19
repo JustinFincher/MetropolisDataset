@@ -298,19 +298,7 @@
       "lon": -74.0023,
       "size": 9850318,
       "level": 0,
-      "addedTime": "2020-02-19T05:26:44.5589161+08:00"
-    },
-    {
-      "id": "b36b9f4c-21b5-4d77-83b9-9ee409d2ae3e",
-      "name": "Mercedes House",
-      "desc": "New York, United States",
-      "zoom": 18.0,
-      "angleY": 0.0,
-      "lat": 40.7675806,
-      "lon": -73.9921092,
-      "size": 9891324,
-      "level": 0,
-      "addedTime": "2020-02-19T05:58:46.8627947+08:00"
+      "addedTime": "0001-01-01T00:00:00"
     },
     {
       "id": "6b804242-f398-4370-818e-501b054b1727",
@@ -346,7 +334,115 @@
       "lon": -84.3835605,
       "size": 15370582,
       "level": 0,
-      "addedTime": "2020-02-19T06:22:19.9617761+08:00"
+      "addedTime": "0001-01-01T00:00:00"
+    },
+    {
+      "id": "e9d1f28c-8f89-4101-8fda-cc5a547aac7d",
+      "name": "Heinz Field",
+      "desc": "Pittsburgh, Pennsylvania, United States",
+      "zoom": 18.0,
+      "angleY": 0.0,
+      "lat": 40.447,
+      "lon": -80.0159822,
+      "size": 3475341,
+      "level": 0,
+      "addedTime": "2020-02-19T17:27:38.8416229+08:00"
+    },
+    {
+      "id": "d48409bd-4b17-47a3-974d-0771b44c430b",
+      "name": "UPMC WORLD HEADQUARTERS",
+      "desc": "Pittsburgh, Pennsylvania, United States",
+      "zoom": 18.0,
+      "angleY": 80.0,
+      "lat": 40.4429,
+      "lon": -79.995,
+      "size": 7269898,
+      "level": 0,
+      "addedTime": "2020-02-19T17:35:26.8511568+08:00"
+    },
+    {
+      "id": "eb6f4e77-32d3-4188-a1b2-904b3205f93f",
+      "name": "Department of Mental Health",
+      "desc": "Boston, Massachusetts, United States",
+      "zoom": 18.0,
+      "angleY": 0.0,
+      "lat": 42.3623405,
+      "lon": -71.0630443,
+      "size": 6816599,
+      "level": 0,
+      "addedTime": "2020-02-19T17:41:04.299325+08:00"
+    },
+    {
+      "id": "f03263a3-0a89-4919-839f-a87eedd8aac7",
+      "name": "Norman B. Leventhal Park",
+      "desc": "Boston, Massachusetts, United States",
+      "zoom": 18.5,
+      "angleY": 140.0,
+      "lat": 42.3555407,
+      "lon": -71.05538,
+      "size": 10450999,
+      "level": 0,
+      "addedTime": "2020-02-19T17:44:27.0078463+08:00"
+    },
+    {
+      "id": "b73e0b39-9832-443a-8e6f-a887c1497b35",
+      "name": "Pier 90",
+      "desc": "New York, United States",
+      "zoom": 18.1,
+      "angleY": 150.0,
+      "lat": 40.7675,
+      "lon": -73.998,
+      "size": 8836591,
+      "level": 0,
+      "addedTime": "2020-02-19T17:48:38.5752573+08:00"
+    },
+    {
+      "id": "9e20d74e-16a4-4d5f-aeb4-1191f7dcc014",
+      "name": "Battleship New Jersey",
+      "desc": "Camden, New Jersey, United States",
+      "zoom": 18.1,
+      "angleY": 150.0,
+      "lat": 39.9391,
+      "lon": -75.1324,
+      "size": 3870695,
+      "level": 0,
+      "addedTime": "2020-02-19T17:54:34.7801731+08:00"
+    },
+    {
+      "id": "7f53cbc0-f2d8-4537-8f47-4af6f7a8fcdf",
+      "name": "Philadelphia Museum of Art",
+      "desc": "Philadelphia, Pennsylvania, United States",
+      "zoom": 18.1,
+      "angleY": 0.0,
+      "lat": 39.9651738,
+      "lon": -75.1809353,
+      "size": 10358279,
+      "level": 0,
+      "addedTime": "2020-02-19T17:57:09.8932535+08:00"
+    },
+    {
+      "id": "ac4e4438-fd7f-4a9e-9826-05375bc3affc",
+      "name": "Columbus Center",
+      "desc": "Baltimore, Maryland, United States",
+      "zoom": 18.1,
+      "angleY": 100.0,
+      "lat": 39.2859,
+      "lon": -76.6063617,
+      "size": 7210571,
+      "level": 0,
+      "addedTime": "2020-02-19T17:59:55.9289409+08:00"
+    },
+    {
+      "id": "0d68353e-e02c-4f5a-8aa4-1c45382b2153",
+      "name": "Ashburton Filtration Plant",
+      "desc": "Baltimore, Maryland, United States",
+      "zoom": 18.1,
+      "angleY": 60.0,
+      "lat": 39.3212,
+      "lon": -76.6617,
+      "size": 11351080,
+      "level": 0,
+      "addedTime": "2020-02-19T18:02:02.1699129+08:00"
     }
   ]
 }
