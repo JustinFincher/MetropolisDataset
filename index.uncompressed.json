@@ -37,30 +37,6 @@
       "addedTime": 1581628737
     },
     {
-      "id": "895298e4-d402-4993-9a39-26679a03a814",
-      "name": "Minneapolis−Saint Paul International Airport",
-      "desc": "Minneapolis, Minnesota, United States",
-      "zoom": 17.0,
-      "angleY": 0.0,
-      "lat": 44.88,
-      "lon": -93.21,
-      "size": 2154829,
-      "level": 0,
-      "addedTime": 1581786688
-    },
-    {
-      "id": "a2202083-553a-4053-9e2e-ee1e4f816223",
-      "name": "Sherwin-Williams Breen Technology Center",
-      "desc": "Cleveland, Ohio, United States",
-      "zoom": 18.0,
-      "angleY": 20.0,
-      "lat": 41.4958,
-      "lon": -81.6973165,
-      "size": 4893915,
-      "level": 0,
-      "addedTime": 1581787109
-    },
-    {
       "id": "073375ea-0b3d-4bcb-953b-5e0b56aaafd0",
       "name": "Progressive Field",
       "desc": "Cleveland, Ohio, United States",
@@ -73,18 +49,6 @@
       "addedTime": 1581787356
     },
     {
-      "id": "5fe705ae-8abb-41dd-a6d9-8b0e28381762",
-      "name": "Oceanside Pier Surfing Area",
-      "desc": "Oceanside, California, United States",
-      "zoom": 19.0,
-      "angleY": 20.0,
-      "lat": 33.1938927,
-      "lon": -117.3846721,
-      "size": 2257192,
-      "level": 0,
-      "addedTime": 1581791195
-    },
-    {
       "id": "c6c107e8-fb43-4ee3-a55f-2b2845cb075c",
       "name": "Canadian Museum for Human Rights",
       "desc": "Winnipeg, Manitoba, Canada",
@@ -95,18 +59,6 @@
       "size": 6517382,
       "level": 0,
       "addedTime": 1582044797
-    },
-    {
-      "id": "671f800a-632b-49cb-8560-b7ddc3f69ea8",
-      "name": "The Cathedral Church of St. John the Divine",
-      "desc": "New York, United States",
-      "zoom": 19.2,
-      "angleY": 0.0,
-      "lat": 40.8038,
-      "lon": -73.9619095,
-      "size": 13594889,
-      "level": 0,
-      "addedTime": 1582047742
     },
     {
       "id": "3ef17255-c2be-475a-84f8-f917857f575b",
@@ -385,18 +337,6 @@
       "addedTime": 1582140057
     },
     {
-      "id": "f1be959b-577f-4b56-be83-cec371deecd1",
-      "name": "Lake Shore East Park",
-      "desc": "Chicago, Illinois, United States",
-      "zoom": 17.1,
-      "angleY": 50.0,
-      "lat": 41.886,
-      "lon": -87.615,
-      "size": 13671970,
-      "level": 0,
-      "addedTime": 1582140228
-    },
-    {
       "id": "6f155261-fe5a-4233-9b7a-2d9ac7852f77",
       "name": "USS Midway Museum",
       "desc": "San Diego, California, United States",
@@ -407,18 +347,6 @@
       "size": 9897291,
       "level": 0,
       "addedTime": 1582140714
-    },
-    {
-      "id": "cacda134-cd13-40f0-9fd1-857b69f30b97",
-      "name": "MetLife Building",
-      "desc": "New York, United States",
-      "zoom": 18.1,
-      "angleY": 340.0,
-      "lat": 40.7535,
-      "lon": -73.977,
-      "size": 19568825,
-      "level": 0,
-      "addedTime": 1582140935
     },
     {
       "id": "7f081f51-b6a6-460f-90f1-bc3a6d4b949f",
@@ -440,9 +368,57 @@
       "angleY": 20.0,
       "lat": 41.88547,
       "lon": -87.632,
-      "size": 0,
+      "size": 16779600,
       "level": 0,
       "addedTime": 1582141528
+    },
+    {
+      "id": "79d5c2dd-c5b1-4318-9fcf-caf8f45657d9",
+      "name": "Minneapolis−Saint Paul International Airport",
+      "desc": "Minneapolis, Minnesota, United States",
+      "zoom": 17.1,
+      "angleY": 0.0,
+      "lat": 44.88,
+      "lon": -93.21,
+      "size": 5738565,
+      "level": 0,
+      "addedTime": 1582144105
+    },
+    {
+      "id": "7ef35faa-db3c-480c-8cc9-8d2f6f8143f4",
+      "name": "Tower City Center",
+      "desc": "Cleveland, Ohio, United States",
+      "zoom": 18.1,
+      "angleY": 200.0,
+      "lat": 41.498,
+      "lon": -81.694,
+      "size": 11956083,
+      "level": 0,
+      "addedTime": 1582144795
+    },
+    {
+      "id": "00ba5d5b-6005-48fc-8b41-fc911a2a0482",
+      "name": "University of Montreal",
+      "desc": "Montreal, Quebec, Canada",
+      "zoom": 18.1,
+      "angleY": 0.0,
+      "lat": 45.5036651,
+      "lon": -73.6142916,
+      "size": 12069795,
+      "level": 0,
+      "addedTime": 1582145157
+    },
+    {
+      "id": "097768f6-38c9-47c8-9278-dfc511a5e9f3",
+      "name": "The Classics",
+      "desc": "Industrial Park, Ottawa, ON, Canada",
+      "zoom": 18.1,
+      "angleY": 50.0,
+      "lat": 45.411,
+      "lon": -75.662,
+      "size": 0,
+      "level": 0,
+      "addedTime": 1582145429
     }
   ]
 }
