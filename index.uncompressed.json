@@ -37,18 +37,6 @@
       "addedTime": 1581628737
     },
     {
-      "id": "5dd72829-237d-486e-841b-386b88d42840",
-      "name": "USS Midway Museum",
-      "desc": "San Diego, California, United States",
-      "zoom": 18.0,
-      "angleY": 120.0,
-      "lat": 32.714,
-      "lon": -117.1745,
-      "size": 4741654,
-      "level": 0,
-      "addedTime": 1581785747
-    },
-    {
       "id": "895298e4-d402-4993-9a39-26679a03a814",
       "name": "Minneapolis−Saint Paul International Airport",
       "desc": "Minneapolis, Minnesota, United States",
@@ -109,18 +97,6 @@
       "addedTime": 1582044797
     },
     {
-      "id": "28e4b1b2-2048-4a13-ab1f-96ab4fe28e9b",
-      "name": "MetLife Building",
-      "desc": "New York, United States",
-      "zoom": 18.0,
-      "angleY": -20.0,
-      "lat": 40.7535,
-      "lon": -73.977,
-      "size": 12994306,
-      "level": 0,
-      "addedTime": 1582046949
-    },
-    {
       "id": "671f800a-632b-49cb-8560-b7ddc3f69ea8",
       "name": "The Cathedral Church of St. John the Divine",
       "desc": "New York, United States",
@@ -167,30 +143,6 @@
       "size": 6611140,
       "level": 0,
       "addedTime": 1582063516
-    },
-    {
-      "id": "6f51d678-09f4-4598-a774-699c2ec235f8",
-      "name": "Atrium Mall",
-      "desc": "Chicago, Illinois, United States",
-      "zoom": 18.0,
-      "angleY": 0.0,
-      "lat": 41.8854736,
-      "lon": -87.63201,
-      "size": 8588752,
-      "level": 0,
-      "addedTime": 1582064099
-    },
-    {
-      "id": "f15fb76a-efd1-4554-8eb7-1fa55300b84f",
-      "name": "1010 Midtown",
-      "desc": "Atlanta, Georgia, United States",
-      "zoom": 18.0,
-      "angleY": 0.0,
-      "lat": 33.7839209,
-      "lon": -84.3835605,
-      "size": 15370582,
-      "level": 0,
-      "addedTime": 1582064539
     },
     {
       "id": "e9d1f28c-8f89-4101-8fda-cc5a547aac7d",
@@ -443,6 +395,54 @@
       "size": 13671970,
       "level": 0,
       "addedTime": 1582140228
+    },
+    {
+      "id": "6f155261-fe5a-4233-9b7a-2d9ac7852f77",
+      "name": "USS Midway Museum",
+      "desc": "San Diego, California, United States",
+      "zoom": 18.1,
+      "angleY": 120.0,
+      "lat": 32.714,
+      "lon": -117.1745,
+      "size": 9897291,
+      "level": 0,
+      "addedTime": 1582140714
+    },
+    {
+      "id": "cacda134-cd13-40f0-9fd1-857b69f30b97",
+      "name": "MetLife Building",
+      "desc": "New York, United States",
+      "zoom": 18.1,
+      "angleY": 340.0,
+      "lat": 40.7535,
+      "lon": -73.977,
+      "size": 19568825,
+      "level": 0,
+      "addedTime": 1582140935
+    },
+    {
+      "id": "7f081f51-b6a6-460f-90f1-bc3a6d4b949f",
+      "name": "1010 Midtown",
+      "desc": "Atlanta, Georgia, United States",
+      "zoom": 18.1,
+      "angleY": 340.0,
+      "lat": 33.7839,
+      "lon": -84.3836,
+      "size": 29338329,
+      "level": 0,
+      "addedTime": 1582141151
+    },
+    {
+      "id": "a9b39080-0f1c-4347-b648-9e436f095311",
+      "name": "Atrium Mall",
+      "desc": "Chicago, Illinois, United States",
+      "zoom": 18.1,
+      "angleY": 20.0,
+      "lat": 41.88547,
+      "lon": -87.632,
+      "size": 0,
+      "level": 0,
+      "addedTime": 1582141528
     }
   ]
 }
