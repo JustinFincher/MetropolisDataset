@@ -9,6 +9,7 @@
       "lat": 49.277,
       "lon": -123.1121,
       "size": 17729408,
+      "checksum": null,
       "level": 0,
       "addedTime": 1581621732
     },
@@ -21,6 +22,7 @@
       "lat": 43.643,
       "lon": -79.3867109,
       "size": 9942862,
+      "checksum": null,
       "level": 1,
       "addedTime": 1581622575
     },
@@ -33,20 +35,9 @@
       "lat": 41.8613031,
       "lon": -87.6168365,
       "size": 11468921,
+      "checksum": null,
       "level": 0,
       "addedTime": 1581628737
-    },
-    {
-      "id": "073375ea-0b3d-4bcb-953b-5e0b56aaafd0",
-      "name": "Progressive Field",
-      "desc": "Cleveland, Ohio, United States",
-      "zoom": 17.0,
-      "angleY": 5.0,
-      "lat": 41.498,
-      "lon": -81.686,
-      "size": 5806062,
-      "level": 0,
-      "addedTime": 1581787356
     },
     {
       "id": "c6c107e8-fb43-4ee3-a55f-2b2845cb075c",
@@ -57,6 +48,7 @@
       "lat": 49.8908,
       "lon": -97.1309075,
       "size": 6517382,
+      "checksum": null,
       "level": 0,
       "addedTime": 1582044797
     },
@@ -69,68 +61,9 @@
       "lat": 40.774,
       "lon": -73.873,
       "size": 3313141,
+      "checksum": null,
       "level": 0,
       "addedTime": 1582047936
-    },
-    {
-      "id": "1e9ee8ef-f2ab-4c78-ae63-a944b0f7aeef",
-      "name": "St Andrews Roman Catholic Church",
-      "desc": "New York, United States",
-      "zoom": 18.0,
-      "angleY": 0.0,
-      "lat": 40.7133,
-      "lon": -74.0023,
-      "size": 9850318,
-      "level": 0,
-      "addedTime": 1582061204
-    },
-    {
-      "id": "6b804242-f398-4370-818e-501b054b1727",
-      "name": "One Financial Center",
-      "desc": "Boston, Massachusetts, United States",
-      "zoom": 18.0,
-      "angleY": 0.0,
-      "lat": 42.3522403,
-      "lon": -71.0560828,
-      "size": 6611140,
-      "level": 0,
-      "addedTime": 1582063516
-    },
-    {
-      "id": "e9d1f28c-8f89-4101-8fda-cc5a547aac7d",
-      "name": "Heinz Field",
-      "desc": "Pittsburgh, Pennsylvania, United States",
-      "zoom": 18.0,
-      "angleY": 0.0,
-      "lat": 40.447,
-      "lon": -80.0159822,
-      "size": 3475341,
-      "level": 0,
-      "addedTime": 1582104458
-    },
-    {
-      "id": "d48409bd-4b17-47a3-974d-0771b44c430b",
-      "name": "UPMC WORLD HEADQUARTERS",
-      "desc": "Pittsburgh, Pennsylvania, United States",
-      "zoom": 18.0,
-      "angleY": 80.0,
-      "lat": 40.4429,
-      "lon": -79.995,
-      "size": 7269898,
-      "level": 0,
-      "addedTime": 1582104926
-    },
-    {
-      "id": "eb6f4e77-32d3-4188-a1b2-904b3205f93f",
-      "name": "Department of Mental Health",
-      "desc": "Boston, Massachusetts, United States",
-      "zoom": 18.0,
-      "angleY": 0.0,
-      "lat": 42.3623405,
-      "lon": -71.0630443,
-      "size": 6816599,
-      "level": 0,
-      "addedTime": 1582105264
     },
     {
       "id": "f03263a3-0a89-4919-839f-a87eedd8aac7",
@@ -141,6 +74,7 @@
       "lat": 42.3555407,
       "lon": -71.05538,
       "size": 10450999,
+      "checksum": null,
       "level": 0,
       "addedTime": 1582105467
     },
@@ -153,6 +87,7 @@
       "lat": 40.7675,
       "lon": -73.998,
       "size": 8836591,
+      "checksum": null,
       "level": 0,
       "addedTime": 1582105718
     },
@@ -165,6 +100,7 @@
       "lat": 39.9391,
       "lon": -75.1324,
       "size": 3870695,
+      "checksum": null,
       "level": 0,
       "addedTime": 1582106074
     },
@@ -177,6 +113,7 @@
       "lat": 39.9651738,
       "lon": -75.1809353,
       "size": 10358279,
+      "checksum": null,
       "level": 0,
       "addedTime": 1582106229
     },
@@ -189,6 +126,7 @@
       "lat": 39.2859,
       "lon": -76.6063617,
       "size": 7210571,
+      "checksum": null,
       "level": 0,
       "addedTime": 1582106395
     },
@@ -201,6 +139,7 @@
       "lat": 39.3212,
       "lon": -76.6617,
       "size": 11351080,
+      "checksum": null,
       "level": 0,
       "addedTime": 1582106522
     },
@@ -213,6 +152,7 @@
       "lat": 45.5147,
       "lon": -122.679,
       "size": 14747819,
+      "checksum": null,
       "level": 1,
       "addedTime": 1582136970
     },
@@ -225,6 +165,7 @@
       "lat": 39.9490002145732,
       "lon": -75.172541152998,
       "size": 17389650,
+      "checksum": null,
       "level": 0,
       "addedTime": 1582137155
     },
@@ -237,6 +178,7 @@
       "lat": 40.749,
       "lon": -73.9857,
       "size": 41028182,
+      "checksum": null,
       "level": 0,
       "addedTime": 1582137606
     },
@@ -249,6 +191,7 @@
       "lat": 37.7950000459474,
       "lon": -122.402399262408,
       "size": 29546800,
+      "checksum": null,
       "level": 0,
       "addedTime": 1582137960
     },
@@ -261,6 +204,7 @@
       "lat": 40.6891999893976,
       "lon": -74.0445001808958,
       "size": 6440455,
+      "checksum": null,
       "level": 0,
       "addedTime": 1582138381
     },
@@ -273,6 +217,7 @@
       "lat": 40.7115,
       "lon": -74.0014,
       "size": 11984838,
+      "checksum": null,
       "level": 0,
       "addedTime": 1582139042
     },
@@ -285,6 +230,7 @@
       "lat": 46.8148999995917,
       "lon": -71.2060000001971,
       "size": 6655702,
+      "checksum": null,
       "level": 0,
       "addedTime": 1582139128
     },
@@ -297,6 +243,7 @@
       "lat": 47.6502509,
       "lon": -122.3016754,
       "size": 14651289,
+      "checksum": null,
       "level": 0,
       "addedTime": 1582139250
     },
@@ -309,6 +256,7 @@
       "lat": 34.13496,
       "lon": -118.322,
       "size": 12963488,
+      "checksum": null,
       "level": 0,
       "addedTime": 1582139544
     },
@@ -321,6 +269,7 @@
       "lat": 40.4419608,
       "lon": -80.0063226,
       "size": 10696689,
+      "checksum": null,
       "level": 0,
       "addedTime": 1582139757
     },
@@ -333,6 +282,7 @@
       "lat": 40.782,
       "lon": -73.925,
       "size": 10794414,
+      "checksum": null,
       "level": 0,
       "addedTime": 1582140057
     },
@@ -345,6 +295,7 @@
       "lat": 32.714,
       "lon": -117.1745,
       "size": 9897291,
+      "checksum": null,
       "level": 0,
       "addedTime": 1582140714
     },
@@ -357,6 +308,7 @@
       "lat": 33.7839,
       "lon": -84.3836,
       "size": 29338329,
+      "checksum": null,
       "level": 0,
       "addedTime": 1582141151
     },
@@ -369,6 +321,7 @@
       "lat": 41.88547,
       "lon": -87.632,
       "size": 16779600,
+      "checksum": null,
       "level": 0,
       "addedTime": 1582141528
     },
@@ -381,6 +334,7 @@
       "lat": 44.88,
       "lon": -93.21,
       "size": 5738565,
+      "checksum": null,
       "level": 0,
       "addedTime": 1582144105
     },
@@ -393,6 +347,7 @@
       "lat": 41.498,
       "lon": -81.694,
       "size": 11956083,
+      "checksum": null,
       "level": 0,
       "addedTime": 1582144795
     },
@@ -405,6 +360,7 @@
       "lat": 45.5036651,
       "lon": -73.6142916,
       "size": 12069795,
+      "checksum": null,
       "level": 0,
       "addedTime": 1582145157
     },
@@ -417,6 +373,7 @@
       "lat": 45.411,
       "lon": -75.662,
       "size": 18331320,
+      "checksum": null,
       "level": 0,
       "addedTime": 1582145429
     },
@@ -428,9 +385,88 @@
       "angleY": 50.0,
       "lat": 45.4299536,
       "lon": -75.709347,
-      "size": 0,
+      "size": 15534243,
+      "checksum": null,
       "level": 0,
       "addedTime": 1582146096
+    },
+    {
+      "id": "496dcda3-1252-4c84-848a-50c5d69aa1b7",
+      "name": "Progressive Field",
+      "desc": "Cleveland, Ohio, United States",
+      "zoom": 17.1,
+      "angleY": 5.0,
+      "lat": 41.4980001958058,
+      "lon": -81.6859985393138,
+      "size": 12354191,
+      "checksum": "43f743882341e49fb1f1f58b903dffd2",
+      "level": 0,
+      "addedTime": 1582284171
+    },
+    {
+      "id": "dffc64b0-74b6-4f33-828e-28b3bcb20af0",
+      "name": "St Andrews Roman Catholic Church",
+      "desc": "New York, United States",
+      "zoom": 18.1,
+      "angleY": 0.0,
+      "lat": 40.7133,
+      "lon": -74.0023,
+      "size": 21038430,
+      "checksum": "",
+      "level": 0,
+      "addedTime": 1582284768
+    },
+    {
+      "id": "a1acd4e7-b83c-498c-a1f9-c36da383cbad",
+      "name": "One Financial Center",
+      "desc": "Boston, Massachusetts, United States",
+      "zoom": 18.1,
+      "angleY": 0.0,
+      "lat": 42.3522402998661,
+      "lon": -71.0560828002439,
+      "size": 13874533,
+      "checksum": "",
+      "level": 0,
+      "addedTime": 1582285000
+    },
+    {
+      "id": "01204a24-d7e7-4c5e-b63b-114bfbb1be17",
+      "name": "UPMC WORLD HEADQUARTERS",
+      "desc": "Pittsburgh, Pennsylvania, United States",
+      "zoom": 18.1,
+      "angleY": 80.0,
+      "lat": 40.4429,
+      "lon": -79.995,
+      "size": 12253006,
+      "checksum": "",
+      "level": 0,
+      "addedTime": 1582285160
+    },
+    {
+      "id": "2661e702-aa5a-414d-b99e-9e6cbb768c8e",
+      "name": "Heinz Field",
+      "desc": "Pittsburgh, Pennsylvania, United States",
+      "zoom": 18.1,
+      "angleY": 0.0,
+      "lat": 40.447,
+      "lon": -80.0159822,
+      "size": 6605920,
+      "checksum": "",
+      "level": 0,
+      "addedTime": 1582285345
+    },
+    {
+      "id": "41c3c5b8-99ca-447b-85e4-adaaf453e7f4",
+      "name": "151 W 42nd St",
+      "desc": "New York, United States",
+      "zoom": 18.1,
+      "angleY": 0.0,
+      "lat": 40.756,
+      "lon": -73.9855,
+      "size": 0,
+      "checksum": "",
+      "level": 0,
+      "addedTime": 1582286403
     }
   ]
 }
