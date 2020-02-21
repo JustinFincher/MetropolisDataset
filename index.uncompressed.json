@@ -452,7 +452,7 @@
       "lon": -80.0159822,
       "size": 6605920,
       "checksum": "95bf072df5130837e7a151304365c895",
-      "level": 0,
+      "level": 1,
       "addedTime": 1582285345
     },
     {
@@ -465,7 +465,7 @@
       "lon": -71.7638158,
       "size": 10649114,
       "checksum": "efbc4ee95b6f154077f7b2b100e40b04",
-      "level": 0,
+      "level": 2,
       "addedTime": 1582316684
     },
     {
@@ -502,8 +502,8 @@
       "angleY": 50.0,
       "lat": 51.049669,
       "lon": -114.0591834,
-      "size": 0,
-      "checksum": "",
+      "size": 6717049,
+      "checksum": "36006bbe616b4b6d0e58e46ec57d05b3",
       "level": 0,
       "addedTime": 1582317691
     }
