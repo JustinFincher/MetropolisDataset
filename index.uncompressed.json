@@ -335,7 +335,7 @@
       "lon": -93.21,
       "size": 5738565,
       "checksum": "05df5d3c3c2245912492df2c8c8fafdd",
-      "level": 0,
+      "level": 2,
       "addedTime": 1582144105
     },
     {
@@ -413,7 +413,7 @@
       "lon": -74.0023,
       "size": 21038430,
       "checksum": "2eec75539873702f84288ebc92dc9539",
-      "level": 0,
+      "level": 1,
       "addedTime": 1582284768
     },
     {
@@ -456,17 +456,56 @@
       "addedTime": 1582285345
     },
     {
-      "id": "41c3c5b8-99ca-447b-85e4-adaaf453e7f4",
-      "name": "151 W 42nd St",
-      "desc": "New York, United States",
+      "id": "e6d1ccc5-8231-47f0-b734-b91e93bec8b2",
+      "name": "UMass Medical School",
+      "desc": "Worcester, Massachusetts, United States",
       "zoom": 18.1,
       "angleY": 0.0,
-      "lat": 40.756,
-      "lon": -73.9855,
-      "size": 17617013,
-      "checksum": "33ca11909c166524f6beeafd40a80216",
+      "lat": 42.2782399,
+      "lon": -71.7638158,
+      "size": 10649114,
+      "checksum": "efbc4ee95b6f154077f7b2b100e40b04",
       "level": 0,
-      "addedTime": 1582286403
+      "addedTime": 1582316684
+    },
+    {
+      "id": "460dd31c-8f4f-40a1-9288-ef1124faa303",
+      "name": "Toronto City Hall",
+      "desc": "Toronto, Ontario, Canada",
+      "zoom": 18.1,
+      "angleY": 0.0,
+      "lat": 43.6536,
+      "lon": -79.3839,
+      "size": 15483006,
+      "checksum": "7aa23a35910d6a9798a3449622ed05c5",
+      "level": 0,
+      "addedTime": 1582317061
+    },
+    {
+      "id": "5a63c0a3-9201-4c81-bd7a-57e151f4217d",
+      "name": "Paris Las Vegas",
+      "desc": "Las Vegas, Nevada, United States",
+      "zoom": 18.1,
+      "angleY": 60.0,
+      "lat": 36.1125,
+      "lon": -115.172,
+      "size": 17476415,
+      "checksum": "c6243ce2d42bc1ba8ec8fe8f7b74b0c5",
+      "level": 0,
+      "addedTime": 1582317240
+    },
+    {
+      "id": "a26d9c87-d58a-44eb-b53e-def81eba8e42",
+      "name": "Canada Revenue Agency",
+      "desc": "Calgary, Alberta, Canada",
+      "zoom": 18.1,
+      "angleY": 50.0,
+      "lat": 51.049669,
+      "lon": -114.0591834,
+      "size": 0,
+      "checksum": "",
+      "level": 0,
+      "addedTime": 1582317691
     }
   ]
 }
