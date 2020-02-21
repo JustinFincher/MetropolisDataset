@@ -9,7 +9,7 @@
       "lat": 49.277,
       "lon": -123.1121,
       "size": 17729408,
-      "checksum": null,
+      "checksum": "5fba28261a749706ee62f110a0f52048",
       "level": 0,
       "addedTime": 1581621732
     },
@@ -22,7 +22,7 @@
       "lat": 43.643,
       "lon": -79.3867109,
       "size": 9942862,
-      "checksum": null,
+      "checksum": "c5f6016909697382f2d2ca314e41b18e",
       "level": 1,
       "addedTime": 1581622575
     },
@@ -35,7 +35,7 @@
       "lat": 41.8613031,
       "lon": -87.6168365,
       "size": 11468921,
-      "checksum": null,
+      "checksum": "70fc34ddeab9292d10e50eead9e2e52e",
       "level": 0,
       "addedTime": 1581628737
     },
@@ -48,7 +48,7 @@
       "lat": 49.8908,
       "lon": -97.1309075,
       "size": 6517382,
-      "checksum": null,
+      "checksum": "b426df178cc15b35bafdb5e3c94f6b2c",
       "level": 0,
       "addedTime": 1582044797
     },
@@ -61,7 +61,7 @@
       "lat": 40.774,
       "lon": -73.873,
       "size": 3313141,
-      "checksum": null,
+      "checksum": "647b8b813da3affa6e5e01a1132043d1",
       "level": 0,
       "addedTime": 1582047936
     },
@@ -74,7 +74,7 @@
       "lat": 42.3555407,
       "lon": -71.05538,
       "size": 10450999,
-      "checksum": null,
+      "checksum": "bd24e4e0442e6cff9eaf9125353286d5",
       "level": 0,
       "addedTime": 1582105467
     },
@@ -87,7 +87,7 @@
       "lat": 40.7675,
       "lon": -73.998,
       "size": 8836591,
-      "checksum": null,
+      "checksum": "2f7cd2269f490fe6c3e1d1aa33a117bb",
       "level": 0,
       "addedTime": 1582105718
     },
@@ -100,7 +100,7 @@
       "lat": 39.9391,
       "lon": -75.1324,
       "size": 3870695,
-      "checksum": null,
+      "checksum": "3aa323900d3a318177a383812381b794",
       "level": 0,
       "addedTime": 1582106074
     },
@@ -113,7 +113,7 @@
       "lat": 39.9651738,
       "lon": -75.1809353,
       "size": 10358279,
-      "checksum": null,
+      "checksum": "b90265daf6eb855322dcd1c2a0c1531a",
       "level": 0,
       "addedTime": 1582106229
     },
@@ -126,7 +126,7 @@
       "lat": 39.2859,
       "lon": -76.6063617,
       "size": 7210571,
-      "checksum": null,
+      "checksum": "69991b3b491778b04d56c493bb4854e0",
       "level": 0,
       "addedTime": 1582106395
     },
@@ -139,7 +139,7 @@
       "lat": 39.3212,
       "lon": -76.6617,
       "size": 11351080,
-      "checksum": null,
+      "checksum": "9546099c4bb0d288e5b1948c31d3e019",
       "level": 0,
       "addedTime": 1582106522
     },
@@ -152,7 +152,7 @@
       "lat": 45.5147,
       "lon": -122.679,
       "size": 14747819,
-      "checksum": null,
+      "checksum": "cc8ec5a60cbbc3f9dbfca9273e81ef09",
       "level": 1,
       "addedTime": 1582136970
     },
@@ -165,7 +165,7 @@
       "lat": 39.9490002145732,
       "lon": -75.172541152998,
       "size": 17389650,
-      "checksum": null,
+      "checksum": "6ab36f648a5311f6c9be58eac884a302",
       "level": 0,
       "addedTime": 1582137155
     },
@@ -178,7 +178,7 @@
       "lat": 40.749,
       "lon": -73.9857,
       "size": 41028182,
-      "checksum": null,
+      "checksum": "28be143d1080cf1679d7906232800bdc",
       "level": 0,
       "addedTime": 1582137606
     },
@@ -191,7 +191,7 @@
       "lat": 37.7950000459474,
       "lon": -122.402399262408,
       "size": 29546800,
-      "checksum": null,
+      "checksum": "944f064e73c14c32c9d3d6d3fdfb880b",
       "level": 0,
       "addedTime": 1582137960
     },
@@ -204,7 +204,7 @@
       "lat": 40.6891999893976,
       "lon": -74.0445001808958,
       "size": 6440455,
-      "checksum": null,
+      "checksum": "5bffcf0a60e601a6316d473148f2c0a3",
       "level": 0,
       "addedTime": 1582138381
     },
@@ -217,7 +217,7 @@
       "lat": 40.7115,
       "lon": -74.0014,
       "size": 11984838,
-      "checksum": null,
+      "checksum": "c1435a0a36eb71f3bd5efbdf4f42c233",
       "level": 0,
       "addedTime": 1582139042
     },
@@ -230,7 +230,7 @@
       "lat": 46.8148999995917,
       "lon": -71.2060000001971,
       "size": 6655702,
-      "checksum": null,
+      "checksum": "eb73a873a588b8cfa3bf2e63ff328062",
       "level": 0,
       "addedTime": 1582139128
     },
@@ -243,7 +243,7 @@
       "lat": 47.6502509,
       "lon": -122.3016754,
       "size": 14651289,
-      "checksum": null,
+      "checksum": "cc03fb75559cf7d387594fd97959b6f0",
       "level": 0,
       "addedTime": 1582139250
     },
@@ -256,7 +256,7 @@
       "lat": 34.13496,
       "lon": -118.322,
       "size": 12963488,
-      "checksum": null,
+      "checksum": "ebd1cd2affd5c4eedaf5e133bf7edb9b",
       "level": 0,
       "addedTime": 1582139544
     },
@@ -269,7 +269,7 @@
       "lat": 40.4419608,
       "lon": -80.0063226,
       "size": 10696689,
-      "checksum": null,
+      "checksum": "cb54557cd9fb1b76281b6702ca3ed2c8",
       "level": 0,
       "addedTime": 1582139757
     },
@@ -282,7 +282,7 @@
       "lat": 40.782,
       "lon": -73.925,
       "size": 10794414,
-      "checksum": null,
+      "checksum": "a9d93d083c0553ff443a17824b7332c3",
       "level": 0,
       "addedTime": 1582140057
     },
@@ -295,7 +295,7 @@
       "lat": 32.714,
       "lon": -117.1745,
       "size": 9897291,
-      "checksum": null,
+      "checksum": "4244d4f02b2967975672a3589ba01b5f",
       "level": 0,
       "addedTime": 1582140714
     },
@@ -308,7 +308,7 @@
       "lat": 33.7839,
       "lon": -84.3836,
       "size": 29338329,
-      "checksum": null,
+      "checksum": "c28de91e2c335c4a213b08c6ff0410e6",
       "level": 0,
       "addedTime": 1582141151
     },
@@ -321,7 +321,7 @@
       "lat": 41.88547,
       "lon": -87.632,
       "size": 16779600,
-      "checksum": null,
+      "checksum": "0d306fe8e82187ec1903740ee8929776",
       "level": 0,
       "addedTime": 1582141528
     },
@@ -334,7 +334,7 @@
       "lat": 44.88,
       "lon": -93.21,
       "size": 5738565,
-      "checksum": null,
+      "checksum": "05df5d3c3c2245912492df2c8c8fafdd",
       "level": 0,
       "addedTime": 1582144105
     },
@@ -347,7 +347,7 @@
       "lat": 41.498,
       "lon": -81.694,
       "size": 11956083,
-      "checksum": null,
+      "checksum": "f1977b68dd52ca29e940548e58f45aa9",
       "level": 0,
       "addedTime": 1582144795
     },
@@ -360,7 +360,7 @@
       "lat": 45.5036651,
       "lon": -73.6142916,
       "size": 12069795,
-      "checksum": null,
+      "checksum": "51147653e2574404fa04ec61d6e766c5",
       "level": 0,
       "addedTime": 1582145157
     },
@@ -373,7 +373,7 @@
       "lat": 45.411,
       "lon": -75.662,
       "size": 18331320,
-      "checksum": null,
+      "checksum": "a10098a8778c805085d4aa9a2e23d609",
       "level": 0,
       "addedTime": 1582145429
     },
@@ -386,7 +386,7 @@
       "lat": 45.4299536,
       "lon": -75.709347,
       "size": 15534243,
-      "checksum": null,
+      "checksum": "656d10dfc9f20943f2df99aecec003b2",
       "level": 0,
       "addedTime": 1582146096
     },
@@ -412,7 +412,7 @@
       "lat": 40.7133,
       "lon": -74.0023,
       "size": 21038430,
-      "checksum": "",
+      "checksum": "2eec75539873702f84288ebc92dc9539",
       "level": 0,
       "addedTime": 1582284768
     },
@@ -425,7 +425,7 @@
       "lat": 42.3522402998661,
       "lon": -71.0560828002439,
       "size": 13874533,
-      "checksum": "",
+      "checksum": "e97b075b713a8359b2c49cd67e130576",
       "level": 0,
       "addedTime": 1582285000
     },
@@ -438,7 +438,7 @@
       "lat": 40.4429,
       "lon": -79.995,
       "size": 12253006,
-      "checksum": "",
+      "checksum": "cd59a372b41354b2b236aa9c459185ac",
       "level": 0,
       "addedTime": 1582285160
     },
@@ -451,7 +451,7 @@
       "lat": 40.447,
       "lon": -80.0159822,
       "size": 6605920,
-      "checksum": "",
+      "checksum": "95bf072df5130837e7a151304365c895",
       "level": 0,
       "addedTime": 1582285345
     },
@@ -463,8 +463,8 @@
       "angleY": 0.0,
       "lat": 40.756,
       "lon": -73.9855,
-      "size": 0,
-      "checksum": "",
+      "size": 17617013,
+      "checksum": "33ca11909c166524f6beeafd40a80216",
       "level": 0,
       "addedTime": 1582286403
     }
