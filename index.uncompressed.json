@@ -506,6 +506,84 @@
       "checksum": "36006bbe616b4b6d0e58e46ec57d05b3",
       "level": 0,
       "addedTime": "2020-02-21T20:41:31Z"
+    },
+    {
+      "id": "5a954868-0994-4a8c-80b8-6a55ad4d1722",
+      "name": "Seattle Public Library-Central Library",
+      "desc": "Seattle, Washington, United States",
+      "zoom": 18.1,
+      "angleY": 300.0,
+      "lat": 47.6067991,
+      "lon": -122.3327535,
+      "size": 23185169,
+      "checksum": "4e2fa409e3f437d6a103a530913aaa2a",
+      "level": 0,
+      "addedTime": "2020-02-24T06:06:39.7694599+08:00"
+    },
+    {
+      "id": "7282ca8b-e817-4a00-8254-831c8cc207c6",
+      "name": "Cadet Chapel",
+      "desc": "Air Force Academy, Colorado, United States",
+      "zoom": 18.1,
+      "angleY": 300.0,
+      "lat": 39.008588,
+      "lon": -104.8908,
+      "size": 5952866,
+      "checksum": "038916c73aaf9408986de14d1aa350e5",
+      "level": 0,
+      "addedTime": "2020-02-24T06:14:05.1095547+08:00"
+    },
+    {
+      "id": "c6e7c8ce-e765-4de6-82a3-9f7fe0fb1180",
+      "name": "Fontainebleau Miami Beach",
+      "desc": "Miami Beach, Florida, United States",
+      "zoom": 18.1,
+      "angleY": 300.0,
+      "lat": 25.8175872,
+      "lon": -80.1222711,
+      "size": 22465034,
+      "checksum": "12eea8fc7ab2e84afbc6cfe3c3561bb7",
+      "level": 0,
+      "addedTime": "2020-02-24T06:15:53.913901+08:00"
+    },
+    {
+      "id": "cb809777-33f0-4404-800a-e41cc07ce0e0",
+      "name": "Milwaukee Art Museum",
+      "desc": "Milwaukee, Wisconsin, United States",
+      "zoom": 18.1,
+      "angleY": 60.0,
+      "lat": 43.0394,
+      "lon": -87.89676,
+      "size": 5085631,
+      "checksum": "a157a5898d117af1c31ab8d42a9454d2",
+      "level": 0,
+      "addedTime": "2020-02-24T06:23:08.1069704+08:00"
+    },
+    {
+      "id": "5595ed05-f3a3-41d9-9c75-10e99df00a9a",
+      "name": "The Gateway Arch",
+      "desc": "Louis, Missouri, United States",
+      "zoom": 18.1,
+      "angleY": 350.0,
+      "lat": 38.6245,
+      "lon": -90.185,
+      "size": 9004716,
+      "checksum": "45e85ff4fae9bfd7b608651eb6d37b89",
+      "level": 0,
+      "addedTime": "2020-02-24T06:32:10.0591916+08:00"
+    },
+    {
+      "id": "3a4862ee-c40f-4a6b-ad96-a6450b1f5124",
+      "name": "Cathedral of Saint Mary of the Assumption",
+      "desc": "Western Addition, San Francisco, CA, United States",
+      "zoom": 18.1,
+      "angleY": 20.0,
+      "lat": 37.7841376,
+      "lon": -122.4253674,
+      "size": 26585341,
+      "checksum": "d35b8f2c4ccd5f429fbd0649efa9ccd6",
+      "level": 0,
+      "addedTime": "2020-02-24T06:41:24.9236349+08:00"
     }
   ]
 }
