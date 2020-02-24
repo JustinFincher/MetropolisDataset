@@ -645,10 +645,49 @@
       "angleY": 200.0,
       "lat": 42.3488311,
       "lon": -82.9738463,
+      "size": 4108812,
+      "checksum": "e87c3de68b04aa53f6c290ea5939afa9",
+      "level": 0,
+      "addedTime": "2020-02-25T06:28:41.741537+08:00"
+    },
+    {
+      "id": "be6a63f6-c256-4310-a2a6-36a67f9d08b4",
+      "name": "USS Wisconsin BB-64",
+      "desc": "Norfolk, Virginia, United States",
+      "zoom": 18.1,
+      "angleY": 100.0,
+      "lat": 36.8478404,
+      "lon": -76.2954549,
+      "size": 7468771,
+      "checksum": "c2f4833a89c0d7846f02098badf6ea3f",
+      "level": 0,
+      "addedTime": "2020-02-25T06:39:49.3724835+08:00"
+    },
+    {
+      "id": "12769d8b-413d-4ef2-90b0-84144394b801",
+      "name": "Naval Base San Diego",
+      "desc": "San Diego, California, United States",
+      "zoom": 16.1,
+      "angleY": 100.0,
+      "lat": 32.68043,
+      "lon": -117.12818,
+      "size": 9496013,
+      "checksum": "366460cd53c36826219adcf66e8058e0",
+      "level": 0,
+      "addedTime": "2020-02-25T06:42:01.0538988+08:00"
+    },
+    {
+      "id": "f1be7485-5fd9-4569-95a9-5db5d1d1a62d",
+      "name": "Shaw Park",
+      "desc": "Winnipeg, Manitoba, Canada",
+      "zoom": 18.1,
+      "angleY": 50.0,
+      "lat": 49.8936519,
+      "lon": -97.133426,
       "size": 0,
       "checksum": "",
       "level": 0,
-      "addedTime": "2020-02-25T06:28:41.741537+08:00"
+      "addedTime": "2020-02-25T06:54:43.2467838+08:00"
     }
   ]
 }
