@@ -606,10 +606,49 @@
       "angleY": 80.0,
       "lat": 33.742107,
       "lon": -118.277416,
+      "size": 5895587,
+      "checksum": "1e2b39ed33e59f40455f76359d1fe770",
+      "level": 0,
+      "addedTime": "2020-02-25T06:09:01.9248724+08:00"
+    },
+    {
+      "id": "8b041df1-248e-4cbb-bbf5-d879a79b075e",
+      "name": "Petco Park",
+      "desc": "San Diego, California, United States",
+      "zoom": 18.1,
+      "angleY": 80.0,
+      "lat": 32.7073867,
+      "lon": -117.1571197,
+      "size": 19422939,
+      "checksum": "eb7088f911a87093c8bfbc8c8544f44d",
+      "level": 0,
+      "addedTime": "2020-02-25T06:17:03.0892113+08:00"
+    },
+    {
+      "id": "7671bbbb-2abe-44cd-b960-14d979e98a49",
+      "name": "One Campus Martius",
+      "desc": "Detroit, Michigan, United States",
+      "zoom": 18.1,
+      "angleY": 60.0,
+      "lat": 42.3320752,
+      "lon": -83.0468207,
+      "size": 11465338,
+      "checksum": "a1f0acdbee0b64a09c93de8d891e7e29",
+      "level": 0,
+      "addedTime": "2020-02-25T06:25:29.9913801+08:00"
+    },
+    {
+      "id": "bc74f70d-9fde-4c0b-9465-6ee77be865fe",
+      "name": "Detroit Yacht Club",
+      "desc": "Detroit, Michigan, United States",
+      "zoom": 18.1,
+      "angleY": 200.0,
+      "lat": 42.3488311,
+      "lon": -82.9738463,
       "size": 0,
       "checksum": "",
       "level": 0,
-      "addedTime": "2020-02-25T06:09:01.9248724+08:00"
+      "addedTime": "2020-02-25T06:28:41.741537+08:00"
     }
   ]
 }
