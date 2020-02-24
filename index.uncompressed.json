@@ -508,19 +508,6 @@
       "addedTime": "2020-02-21T20:41:31Z"
     },
     {
-      "id": "5a954868-0994-4a8c-80b8-6a55ad4d1722",
-      "name": "Seattle Public Library-Central Library",
-      "desc": "Seattle, Washington, United States",
-      "zoom": 18.1,
-      "angleY": 300.0,
-      "lat": 47.6067991,
-      "lon": -122.3327535,
-      "size": 23185169,
-      "checksum": "4e2fa409e3f437d6a103a530913aaa2a",
-      "level": 0,
-      "addedTime": "2020-02-24T06:06:39.7694599+08:00"
-    },
-    {
       "id": "7282ca8b-e817-4a00-8254-831c8cc207c6",
       "name": "Cadet Chapel",
       "desc": "Air Force Academy, Colorado, United States",
@@ -569,7 +556,7 @@
       "lon": -90.185,
       "size": 9004716,
       "checksum": "45e85ff4fae9bfd7b608651eb6d37b89",
-      "level": 0,
+      "level": 1,
       "addedTime": "2020-02-24T06:32:10.0591916+08:00"
     },
     {
