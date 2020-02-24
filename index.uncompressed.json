@@ -571,6 +571,45 @@
       "checksum": "d35b8f2c4ccd5f429fbd0649efa9ccd6",
       "level": 0,
       "addedTime": "2020-02-24T06:41:24.9236349+08:00"
+    },
+    {
+      "id": "f0a923a9-49aa-4beb-b358-8049e3561b5c",
+      "name": "USS Yorktown CV-10",
+      "desc": "Mt Pleasant, South Carolina, United States",
+      "zoom": 18.1,
+      "angleY": 20.0,
+      "lat": 32.7903515,
+      "lon": -79.9084885,
+      "size": 7451074,
+      "checksum": "7c9fca0aad63851581a562ea9f98d012",
+      "level": 0,
+      "addedTime": "2020-02-25T05:59:55.6876442+08:00"
+    },
+    {
+      "id": "b1af9f45-8464-42ff-844e-0b5129d99d66",
+      "name": "USS Hornet - Sea, Air and Space Museum",
+      "desc": "Alameda, California, United States",
+      "zoom": 18.1,
+      "angleY": 80.0,
+      "lat": 37.7726022,
+      "lon": -122.3026704,
+      "size": 7547363,
+      "checksum": "9c2ac2f4fa7a5ac8f6edc93df0702baf",
+      "level": 0,
+      "addedTime": "2020-02-25T06:07:05.8720953+08:00"
+    },
+    {
+      "id": "ace56948-d2fc-4463-91b6-cb11d844568e",
+      "name": "Battleship USS Iowa Museum",
+      "desc": "Los Angeles, California, United States",
+      "zoom": 18.1,
+      "angleY": 80.0,
+      "lat": 33.742107,
+      "lon": -118.277416,
+      "size": 0,
+      "checksum": "",
+      "level": 0,
+      "addedTime": "2020-02-25T06:09:01.9248724+08:00"
     }
   ]
 }
