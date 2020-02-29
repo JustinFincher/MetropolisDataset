@@ -313,19 +313,6 @@
       "addedTime": 1582141151
     },
     {
-      "id": "a9b39080-0f1c-4347-b648-9e436f095311",
-      "name": "Atrium Mall",
-      "desc": "Chicago, Illinois, United States",
-      "zoom": 18.1,
-      "angleY": 20.0,
-      "lat": 41.88547,
-      "lon": -87.632,
-      "size": 16779600,
-      "checksum": "0d306fe8e82187ec1903740ee8929776",
-      "level": 0,
-      "addedTime": 1582141528
-    },
-    {
       "id": "79d5c2dd-c5b1-4318-9fcf-caf8f45657d9",
       "name": "Minneapolis−Saint Paul International Airport",
       "desc": "Minneapolis, Minnesota, United States",
@@ -803,7 +790,7 @@
       "lon": -83.02,
       "size": 9712729,
       "checksum": "2b5cd2cc03bfbe8074f2659e1856bf99",
-      "level": 0,
+      "level": 1,
       "addedTime": 1582922216
     },
     {
@@ -896,6 +883,123 @@
       "checksum": "065232dedab05c0d750d4ffca0a7b437",
       "level": 0,
       "addedTime": 1582924362
+    },
+    {
+      "id": "3b011466-e8a4-481a-add8-a98fc0b11a69",
+      "name": "Art Gallery of Alberta",
+      "desc": "Edmonton, Alberta, Canada",
+      "zoom": 18.1,
+      "angleY": 50.0,
+      "lat": 53.5447,
+      "lon": -113.4888,
+      "size": 6174203,
+      "checksum": "2b429fb587486042a2601d16da3ff4d9",
+      "level": 0,
+      "addedTime": 1582999786
+    },
+    {
+      "id": "52f86881-fd41-486e-9538-c07631d73284",
+      "name": "Telia Parken",
+      "desc": "Copenhagen, Copenhagen Municipality, Denmark",
+      "zoom": 16.1,
+      "angleY": 100.0,
+      "lat": 55.7023799,
+      "lon": 12.5724203,
+      "size": 11973448,
+      "checksum": "0e61a953a0845bd99ddca5061a1ab8c7",
+      "level": 0,
+      "addedTime": 1583001579
+    },
+    {
+      "id": "f847c4e9-aff3-451d-8b9d-0a4cfe87fe91",
+      "name": "Metropolis Apartments",
+      "desc": "Copenhagen, Copenhagen Municipality, Denmark",
+      "zoom": 18.1,
+      "angleY": 60.0,
+      "lat": 55.647,
+      "lon": 12.5554,
+      "size": 3069290,
+      "checksum": "d48e349aa5739b3a366519faeeddd17f",
+      "level": 1,
+      "addedTime": 1583002135
+    },
+    {
+      "id": "ddc04a92-1a1d-41e8-bce3-644eee3b6639",
+      "name": "National Aquarium Denmark",
+      "desc": "Kastrup, Tårnby Municipality, Denmark",
+      "zoom": 18.1,
+      "angleY": 50.0,
+      "lat": 55.638,
+      "lon": 12.656,
+      "size": 2736377,
+      "checksum": "5b262fd984aad8c109f48d96236c1b34",
+      "level": 0,
+      "addedTime": 1583002302
+    },
+    {
+      "id": "502f7081-d05d-41a5-9bf8-445471625a7a",
+      "name": "Tycho Brahe Planetarium",
+      "desc": "Copenhagen, Copenhagen Municipality, Denmark",
+      "zoom": 18.1,
+      "angleY": 180.0,
+      "lat": 55.6742222,
+      "lon": 12.55801,
+      "size": 5563202,
+      "checksum": "6c80301b30ecee01494503bfc352096a",
+      "level": 0,
+      "addedTime": 1583002462
+    },
+    {
+      "id": "922b5a26-6b5e-4382-8cdd-938391b78c89",
+      "name": "Grand Théâtre de Provence",
+      "desc": "Aix-en-Provence, France",
+      "zoom": 18.1,
+      "angleY": 100.0,
+      "lat": 43.5257502,
+      "lon": 5.43978190000001,
+      "size": 24049888,
+      "checksum": "c9376d24b43a861ea17ece00b073e3ee",
+      "level": 0,
+      "addedTime": 1583002998
+    },
+    {
+      "id": "15eb2232-ed5c-4602-bc0a-081fbb61de83",
+      "name": "European Parliament",
+      "desc": "Brussels, Belgium",
+      "zoom": 17.1,
+      "angleY": 80.0,
+      "lat": 50.8386,
+      "lon": 4.376,
+      "size": 15267073,
+      "checksum": "f3075d077c7ed4d6ed88e937e385abd6",
+      "level": 0,
+      "addedTime": 1583004068
+    },
+    {
+      "id": "82cd4310-a49b-43f4-8ac0-666561d8d972",
+      "name": "Bordeaux Cathedral",
+      "desc": "Bordeaux, France",
+      "zoom": 18.1,
+      "angleY": 40.0,
+      "lat": 44.83755,
+      "lon": -0.577699999999993,
+      "size": 20479377,
+      "checksum": "0a6bca5a71f6de94fd33209be5597f83",
+      "level": 1,
+      "addedTime": 1583004384
+    },
+    {
+      "id": "8ef9d346-9c40-49e9-8677-5f1c42913c20",
+      "name": "Lakes of Buckingham",
+      "desc": "Fort Wayne, Perry Township, IN, United States",
+      "zoom": 18.1,
+      "angleY": 40.0,
+      "lat": 41.1023367,
+      "lon": -85.0679282,
+      "size": 8622206,
+      "checksum": "a65e20cfd4ba42a94dabf66d9646f05e",
+      "level": 0,
+      "addedTime": 1583004801
     }
   ]
 }
