@@ -1000,6 +1000,58 @@
       "checksum": "a65e20cfd4ba42a94dabf66d9646f05e",
       "level": 0,
       "addedTime": 1583004801
+    },
+    {
+      "id": "a0dd6a0d-a7e0-46f4-92f1-08a33e2a427c",
+      "name": "Colosseum",
+      "desc": "Rome, Metropolitan City of Rome, Italy",
+      "zoom": 17.1,
+      "angleY": 0.0,
+      "lat": 41.8902724,
+      "lon": 12.4922825,
+      "size": 16257860,
+      "checksum": "f514e20ebd58f77fcbc37c0fcdf4aaec",
+      "level": 0,
+      "addedTime": 1583103404
+    },
+    {
+      "id": "b2cccce9-2983-488c-846c-053dde15c156",
+      "name": "Circolo Rari Nantes Napoli",
+      "desc": "Naples, Metropolitan City of Naples, Italy",
+      "zoom": 18.1,
+      "angleY": 40.0,
+      "lat": 40.83,
+      "lon": 14.25,
+      "size": 11169458,
+      "checksum": "fc431d337b2b4d22eab38b1f516ba5ee",
+      "level": 1,
+      "addedTime": 1583104126
+    },
+    {
+      "id": "29accb2b-649b-457a-bfd5-d3a16b80a022",
+      "name": "San Paolo Stadium",
+      "desc": "Naples, Metropolitan City of Naples, Italy",
+      "zoom": 18.1,
+      "angleY": 60.0,
+      "lat": 40.828,
+      "lon": 14.192,
+      "size": 24822470,
+      "checksum": "af03b775ebe26143f2c007ef35233c61",
+      "level": 0,
+      "addedTime": 1583104363
+    },
+    {
+      "id": "ea7905b9-693e-4729-87d4-b1cc019440bd",
+      "name": "Shoreline Amphitheatre",
+      "desc": "Mountain View, California, United States",
+      "zoom": 19.1,
+      "angleY": 100.0,
+      "lat": 37.4268443,
+      "lon": -122.0810039,
+      "size": 9379671,
+      "checksum": "36dfab454f3c97d4e32665628c9ff35a",
+      "level": 0,
+      "addedTime": 1583105113
     }
   ]
 }
