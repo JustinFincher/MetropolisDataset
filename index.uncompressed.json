@@ -49,7 +49,7 @@
       "lon": -97.1309075,
       "size": 6517382,
       "checksum": "b426df178cc15b35bafdb5e3c94f6b2c",
-      "level": 0,
+      "level": 1,
       "addedTime": 1582044797
     },
     {
@@ -894,7 +894,7 @@
       "lon": -113.4888,
       "size": 6174203,
       "checksum": "2b429fb587486042a2601d16da3ff4d9",
-      "level": 0,
+      "level": 1,
       "addedTime": 1582999786
     },
     {
@@ -920,7 +920,7 @@
       "lon": 12.5554,
       "size": 3069290,
       "checksum": "d48e349aa5739b3a366519faeeddd17f",
-      "level": 1,
+      "level": 0,
       "addedTime": 1583002135
     },
     {
@@ -1052,6 +1052,97 @@
       "checksum": "36dfab454f3c97d4e32665628c9ff35a",
       "level": 0,
       "addedTime": 1583105113
+    },
+    {
+      "id": "90711e80-51a5-4b5d-8f90-49e9306a3742",
+      "name": "Fresno City Hall",
+      "desc": "Fresno, California, United States",
+      "zoom": 19.1,
+      "angleY": 90.0,
+      "lat": 36.7396,
+      "lon": -119.7846,
+      "size": 12322825,
+      "checksum": "0771a3aa747e6f341dba02d18adf37ec",
+      "level": 1,
+      "addedTime": 1583324069
+    },
+    {
+      "id": "6d877dfa-77ec-4bbb-ab1c-4aed4ced3d33",
+      "name": "Palau de les Arts Reina Sofia",
+      "desc": "Valencia, Spain",
+      "zoom": 17.1,
+      "angleY": 0.0,
+      "lat": 39.4574405,
+      "lon": -0.356207600000005,
+      "size": 28564506,
+      "checksum": "eb3d85e7a8d22ec7f340fd78abff4d3b",
+      "level": 0,
+      "addedTime": 1583326932
+    },
+    {
+      "id": "fde78cb6-828c-4ca2-885f-0ff4e1c0aecd",
+      "name": "Nobbys Lighthouse",
+      "desc": "Newcastle East, New South Wales, Australia",
+      "zoom": 19.1,
+      "angleY": 45.0,
+      "lat": -32.9183,
+      "lon": 151.799,
+      "size": 5174682,
+      "checksum": "06c2d527c32116ef129b0a3f2421b818",
+      "level": 0,
+      "addedTime": 1583327576
+    },
+    {
+      "id": "d94bdfb5-e776-4ab2-a201-1ad86abc9067",
+      "name": "Berliner Fernsehturm",
+      "desc": "Berlin, Germany",
+      "zoom": 16.1,
+      "angleY": 100.0,
+      "lat": 52.5209528,
+      "lon": 13.4094269,
+      "size": 16397970,
+      "checksum": "6afcdd18abb2dd01e0af90cd82e79eb8",
+      "level": 1,
+      "addedTime": 1583327955
+    },
+    {
+      "id": "94da9c89-0d88-435d-ba2c-d4e13a4b7c07",
+      "name": "Frederic C. Hamilton Building",
+      "desc": "Denver, Colorado, United States",
+      "zoom": 19.1,
+      "angleY": 140.0,
+      "lat": 39.7363,
+      "lon": -104.989,
+      "size": 7673080,
+      "checksum": "31fb4e7d1dbe68d19289237d4539302b",
+      "level": 0,
+      "addedTime": 1583328246
+    },
+    {
+      "id": "81f4c695-82f2-42dc-b46e-da64bffb8d93",
+      "name": "Republic Plaza",
+      "desc": "Denver, Colorado, United States",
+      "zoom": 18.1,
+      "angleY": 300.0,
+      "lat": 39.7437,
+      "lon": -104.989,
+      "size": 13985138,
+      "checksum": "5d1f973028bc44f414f8b1e0c95e7c35",
+      "level": 0,
+      "addedTime": 1583328491
+    },
+    {
+      "id": "c69120cc-308b-4970-96c6-b3e504180105",
+      "name": "Bellwood Quarry",
+      "desc": "Atlanta, Georgia, United States",
+      "zoom": 18.1,
+      "angleY": 70.0,
+      "lat": 33.7801495,
+      "lon": -84.4341314,
+      "size": 9324687,
+      "checksum": "0b587a6ce0947468c88299eaf636d7fc",
+      "level": 1,
+      "addedTime": 1583328817
     }
   ]
 }
