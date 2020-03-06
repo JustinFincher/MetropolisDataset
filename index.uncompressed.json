@@ -1143,19 +1143,6 @@
       "checksum": "0b587a6ce0947468c88299eaf636d7fc",
       "level": 1,
       "addedTime": 1583328817
-    },
-    {
-      "id": "34d0f212-7e0d-44b1-9599-026b315ef3c2",
-      "name": "40 Wall Street - The Trump Building",
-      "desc": "New York, United States",
-      "zoom": 18.1,
-      "angleY": 180.0,
-      "lat": 40.7063,
-      "lon": -74.0097,
-      "size": 22181489,
-      "checksum": "dc1ec94123f3b9af0d5e7857b1023996",
-      "level": 0,
-      "addedTime": 1583518926
     }
   ]
 }
