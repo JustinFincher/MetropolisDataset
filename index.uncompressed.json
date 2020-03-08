@@ -1143,6 +1143,71 @@
       "checksum": "0b587a6ce0947468c88299eaf636d7fc",
       "level": 1,
       "addedTime": 1583328817
+    },
+    {
+      "id": "ee2d48bb-4dfb-4795-94a2-307d83cf00f2",
+      "name": "CenturyLink Center Omaha",
+      "desc": "Omaha, Chicago, NE, United States",
+      "zoom": 18.1,
+      "angleY": 0.0,
+      "lat": 41.2630105,
+      "lon": -95.9289749,
+      "size": 7281333,
+      "checksum": "847e29b2663020bf7d3bcf19801ee6f6",
+      "level": 0,
+      "addedTime": 1583626051
+    },
+    {
+      "id": "44c414a1-92e3-438d-b939-39bca9cc8c33",
+      "name": "Wisconsin State Capitol",
+      "desc": "Madison, Wisconsin, United States",
+      "zoom": 18.1,
+      "angleY": 100.0,
+      "lat": 43.0747218,
+      "lon": -89.3842468,
+      "size": 21410083,
+      "checksum": "6c7f803a7c750f63c69e652b9d60e73f",
+      "level": 0,
+      "addedTime": 1583626839
+    },
+    {
+      "id": "6dce99df-e8dc-42ef-abe9-5952a26db89a",
+      "name": "875 North Michigan Avenue",
+      "desc": "Chicago, Illinois, United States",
+      "zoom": 17.1,
+      "angleY": 200.0,
+      "lat": 41.8988509,
+      "lon": -87.6230979,
+      "size": 24198738,
+      "checksum": "f8ffd797062ea91d8566e179c24b9502",
+      "level": 0,
+      "addedTime": 1583627706
+    },
+    {
+      "id": "99ce1b2f-7f44-49bb-b8c7-9ba9738f62f1",
+      "name": "Castaways",
+      "desc": "Chicago, Illinois, United States",
+      "zoom": 17.1,
+      "angleY": 50.0,
+      "lat": 41.9132125,
+      "lon": -87.6242258,
+      "size": 8096526,
+      "checksum": "b8681de4a5c01bd9527472d78ba2e321",
+      "level": 1,
+      "addedTime": 1583628080
+    },
+    {
+      "id": "7c0d1a4b-4998-4095-b6ae-ddf041f8a29a",
+      "name": "Chicago Corinthian Yacht Club",
+      "desc": "Chicago, Illinois, United States",
+      "zoom": 17.1,
+      "angleY": 0.0,
+      "lat": 41.9624859,
+      "lon": -87.6383004,
+      "size": 7430506,
+      "checksum": "fb218f9ea8bb8bad8dff7fb3c25c5ec0",
+      "level": 0,
+      "addedTime": 1583628287
     }
   ]
 }
