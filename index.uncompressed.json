@@ -1208,6 +1208,45 @@
       "checksum": "fb218f9ea8bb8bad8dff7fb3c25c5ec0",
       "level": 0,
       "addedTime": 1583628287
+    },
+    {
+      "id": "e7012366-9aa5-4170-b5be-8df0c13c7c2d",
+      "name": "Cala de la Palmera",
+      "desc": "Alicante, Spain",
+      "zoom": 18.1,
+      "angleY": 0.0,
+      "lat": 38.3537,
+      "lon": -0.412900000000008,
+      "size": 21946862,
+      "checksum": "1e9928c8291be8f13c0eb42e865c3aa9",
+      "level": 1,
+      "addedTime": 1583744987
+    },
+    {
+      "id": "45f17584-e9e1-4f20-950b-c9618ce472e0",
+      "name": "Michigan Stadium",
+      "desc": "Ann Arbor, Michigan, United States",
+      "zoom": 18.1,
+      "angleY": 160.0,
+      "lat": 42.266,
+      "lon": -83.748,
+      "size": 7992486,
+      "checksum": "8eccf498df721c019e330f465a1e744c",
+      "level": 0,
+      "addedTime": 1583745331
+    },
+    {
+      "id": "89c6be75-ee1b-4e01-93cf-486799a123af",
+      "name": "Louisiana State Capitol",
+      "desc": "Baton Rouge, 6, LA, United States",
+      "zoom": 18.1,
+      "angleY": 236.0,
+      "lat": 30.4570732,
+      "lon": -91.1874045,
+      "size": 25286866,
+      "checksum": "30fc1bb8d7b4c039efc1a90759f18d45",
+      "level": 0,
+      "addedTime": 1583747191
     }
   ]
 }
