@@ -1247,6 +1247,19 @@
       "checksum": "30fc1bb8d7b4c039efc1a90759f18d45",
       "level": 0,
       "addedTime": 1583747191
+    },
+    {
+      "id": "1bb46854-727c-49d1-887e-d02189297502",
+      "name": "Cheyenne Lake",
+      "desc": "Colorado Springs, Colorado, United States",
+      "zoom": 17.0,
+      "angleY": 0.0,
+      "lat": 38.7889123,
+      "lon": -104.8520366,
+      "size": 7070641,
+      "checksum": "f7a09367f4de2e9c21b9fe5adb40696e",
+      "level": 1,
+      "addedTime": 1583750051
     }
   ]
 }
