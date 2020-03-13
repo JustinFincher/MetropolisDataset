@@ -1323,7 +1323,7 @@
       "lon": -73.9589132,
       "size": 24378913,
       "checksum": "252f569b662930b13d6a9db12c844e75",
-      "level": 0,
+      "level": 1,
       "addedTime": 1584130180
     },
     {
@@ -1336,7 +1336,7 @@
       "lon": -71.415,
       "size": 17353769,
       "checksum": "c3aeaef06046bd9c9d9c26151da8be93",
-      "level": 1,
+      "level": 0,
       "addedTime": 1584131654
     },
     {
