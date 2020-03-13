@@ -1260,6 +1260,97 @@
       "checksum": "2bc3703b5d8622ccd04009b23446edea",
       "level": 1,
       "addedTime": 1583751981
+    },
+    {
+      "id": "21d0dc95-c095-4529-aa4a-db72f614973d",
+      "name": "Humphrey School of Public Affairs",
+      "desc": "Minneapolis, Minnesota, United States",
+      "zoom": 18.1,
+      "angleY": 150.0,
+      "lat": 44.972,
+      "lon": -93.244,
+      "size": 13948863,
+      "checksum": "94dc761cce2dc06f793a02b45fcaa4c2",
+      "level": 0,
+      "addedTime": 1584127828
+    },
+    {
+      "id": "95d058b4-c72e-478b-86f0-227cef34ecbb",
+      "name": "Fifth Street Towers",
+      "desc": "Minneapolis, Minnesota, United States",
+      "zoom": 18.1,
+      "angleY": 180.0,
+      "lat": 44.977,
+      "lon": -93.268,
+      "size": 15285967,
+      "checksum": "fd9dc22283cc51928d630c867dc5fdf3",
+      "level": 0,
+      "addedTime": 1584128432
+    },
+    {
+      "id": "90ea75fc-2724-482b-9412-f53a94c55ed8",
+      "name": "Williamsburg Bridge",
+      "desc": "New York, United States",
+      "zoom": 17.1,
+      "angleY": 220.0,
+      "lat": 40.7145,
+      "lon": -73.976,
+      "size": 16325326,
+      "checksum": "ff562ffcf89dff48fce8729fa309c4b8",
+      "level": 0,
+      "addedTime": 1584128897
+    },
+    {
+      "id": "5411f09f-0b67-49c7-a190-9f5454fd244f",
+      "name": "Milstein Hospital Building",
+      "desc": "New York, United States",
+      "zoom": 18.1,
+      "angleY": 80.0,
+      "lat": 40.8415,
+      "lon": -73.9425,
+      "size": 22703915,
+      "checksum": "08ae54534cd7761166ac5b0ef07cc2fe",
+      "level": 0,
+      "addedTime": 1584129186
+    },
+    {
+      "id": "6435edc6-b295-4579-8daa-338b59ad58a2",
+      "name": "Solomon R. Guggenheim Museum",
+      "desc": "Manhattan, New York, NY, United States",
+      "zoom": 18.1,
+      "angleY": 90.0,
+      "lat": 40.7833308,
+      "lon": -73.9589132,
+      "size": 24378913,
+      "checksum": "252f569b662930b13d6a9db12c844e75",
+      "level": 0,
+      "addedTime": 1584130180
+    },
+    {
+      "id": "3c6dec71-05b7-4151-81e5-a911befa54d8",
+      "name": "Rhode Island State House",
+      "desc": "Providence, Rhode Island, United States",
+      "zoom": 18.1,
+      "angleY": 220.0,
+      "lat": 41.8309,
+      "lon": -71.415,
+      "size": 17353769,
+      "checksum": "c3aeaef06046bd9c9d9c26151da8be93",
+      "level": 1,
+      "addedTime": 1584131654
+    },
+    {
+      "id": "0082d18c-bbd6-4da6-b460-96fa58d83e2b",
+      "name": "Naismith Memorial Basketball Hall of Fame",
+      "desc": "Springfield, Massachusetts, United States",
+      "zoom": 18.1,
+      "angleY": 230.0,
+      "lat": 42.0937742,
+      "lon": -72.585016,
+      "size": 12398348,
+      "checksum": "a6952477bbb8414ffa607dbd8413766c",
+      "level": 0,
+      "addedTime": 1584131904
     }
   ]
 }
