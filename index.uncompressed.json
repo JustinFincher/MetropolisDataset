@@ -1351,6 +1351,58 @@
       "checksum": "a6952477bbb8414ffa607dbd8413766c",
       "level": 0,
       "addedTime": 1584131904
+    },
+    {
+      "id": "e7c45279-7506-47da-8e36-c0cc609a16ba",
+      "name": "Rush University Medical Center",
+      "desc": "Chicago, Illinois, United States",
+      "zoom": 18.1,
+      "angleY": 130.0,
+      "lat": 41.8747528,
+      "lon": -87.6674921,
+      "size": 12667255,
+      "checksum": "81eb8dabd90ffe586d95d28cc8fc89b7",
+      "level": 0,
+      "addedTime": 1584206503
+    },
+    {
+      "id": "d68d2b31-ef19-432c-a3d1-f08ef75e55af",
+      "name": "GM Tech Center",
+      "desc": "Warren, Michigan, United States",
+      "zoom": 18.1,
+      "angleY": 130.0,
+      "lat": 42.513,
+      "lon": -83.0316,
+      "size": 4540158,
+      "checksum": "35bb83474e6eedd488d7d266c5d237a1",
+      "level": 0,
+      "addedTime": 1584206854
+    },
+    {
+      "id": "2b08bf3b-8c84-4b4e-8839-74be148c876d",
+      "name": "Cleveland State University",
+      "desc": "Cleveland, Ohio, United States",
+      "zoom": 18.1,
+      "angleY": 0.0,
+      "lat": 41.503,
+      "lon": -81.6755,
+      "size": 9015335,
+      "checksum": "644e2a60033a6f386a6d05e166eb9cc2",
+      "level": 0,
+      "addedTime": 1584207134
+    },
+    {
+      "id": "7bc6b796-020b-4de4-b3d7-96ae3f06c998",
+      "name": "Miller Family Heart and Vascular Institute",
+      "desc": "Cleveland, Ohio, United States",
+      "zoom": 18.1,
+      "angleY": 120.0,
+      "lat": 41.5027744,
+      "lon": -81.620937,
+      "size": 9496904,
+      "checksum": "2dd5b91570c40ec5e02384854c831327",
+      "level": 0,
+      "addedTime": 1584207419
     }
   ]
 }
