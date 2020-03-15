@@ -1403,6 +1403,32 @@
       "checksum": "2dd5b91570c40ec5e02384854c831327",
       "level": 0,
       "addedTime": 1584207419
+    },
+    {
+      "id": "5022cb1c-e404-42e2-baee-6c3bfec85b94",
+      "name": "Elitch Gardens",
+      "desc": "Denver, Colorado, United States",
+      "zoom": 18.1,
+      "angleY": 100.0,
+      "lat": 39.750913,
+      "lon": -105.0108634,
+      "size": 11018611,
+      "checksum": "4a50416de65394c34cd4869cdcf2701b",
+      "level": 1,
+      "addedTime": 1584306504
+    },
+    {
+      "id": "29310931-5594-4339-bfef-ea11572ba1d5",
+      "name": "30 Rockefeller Plaza",
+      "desc": "New York, United States",
+      "zoom": 17.1,
+      "angleY": 60.0,
+      "lat": 40.7591519,
+      "lon": -73.9796054,
+      "size": 29158070,
+      "checksum": "04c7f01a533bfb85dd7fdc62c41d8a62",
+      "level": 0,
+      "addedTime": 1584308170
     }
   ]
 }
