@@ -1533,6 +1533,84 @@
       "checksum": "cdd66e1c9ea0cc10a3abafc05acf9cdf",
       "level": 0,
       "addedTime": 1584495562
+    },
+    {
+      "id": "0b21438e-1378-4e50-8ada-6bf0016e1275",
+      "name": "Temple Square",
+      "desc": "Salt Lake City, Utah, United States",
+      "zoom": 18.1,
+      "angleY": 30.0,
+      "lat": 40.7710056,
+      "lon": -111.8893612,
+      "size": 12130268,
+      "checksum": "907b3933612513a0101509f88179d5c7",
+      "level": 1,
+      "addedTime": 1584775450
+    },
+    {
+      "id": "ef2793dd-ba90-4453-85a6-23a002565507",
+      "name": "Broadway Bridge",
+      "desc": "New York, United States",
+      "zoom": 18.1,
+      "angleY": 80.0,
+      "lat": 40.8736783,
+      "lon": -73.911134,
+      "size": 9480925,
+      "checksum": "7f3038182a3e0cb4bfe4e5a03443f296",
+      "level": 0,
+      "addedTime": 1584777483
+    },
+    {
+      "id": "9db0cfb2-003d-422f-86bc-a7be2ab9f50e",
+      "name": "Long Beach Cruise Terminal",
+      "desc": "Long Beach, California, United States",
+      "zoom": 18.1,
+      "angleY": 80.0,
+      "lat": 33.7515,
+      "lon": -118.188,
+      "size": 5370529,
+      "checksum": "4973789018bc33febe6bdd08386d59cc",
+      "level": 0,
+      "addedTime": 1584778295
+    },
+    {
+      "id": "dce10cc9-f153-4427-acaa-6fe7ea268828",
+      "name": "Griffith Observatory",
+      "desc": "Los Angeles, California, United States",
+      "zoom": 18.1,
+      "angleY": 200.0,
+      "lat": 34.118,
+      "lon": -118.3004,
+      "size": 18335994,
+      "checksum": "40d39eacdf2fefbfdf394bcfc5e9cdf5",
+      "level": 0,
+      "addedTime": 1584778815
+    },
+    {
+      "id": "867aa6a5-889d-45e9-9a91-5e19348a6625",
+      "name": "Hollywood & Highland",
+      "desc": "Hollywood, Los Angeles, CA, United States",
+      "zoom": 18.1,
+      "angleY": 330.0,
+      "lat": 34.10251,
+      "lon": -118.3396,
+      "size": 24262636,
+      "checksum": "8de7823ad2362ca9f32dc70f4c46f7b3",
+      "level": 0,
+      "addedTime": 1584779018
+    },
+    {
+      "id": "5b9a0b12-a7b7-4754-b428-0b11c69f900b",
+      "name": "Bel Air",
+      "desc": "Los Angeles, California, United States",
+      "zoom": 17.1,
+      "angleY": 270.0,
+      "lat": 34.1088,
+      "lon": -118.4595,
+      "size": 21303153,
+      "checksum": "e1d4ebfc42def14ea4d6b797c314d3ee",
+      "level": 1,
+      "addedTime": 1584779436
     }
   ]
 }
