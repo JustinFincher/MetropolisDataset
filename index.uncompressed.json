@@ -1648,7 +1648,7 @@
       "lon": -122.3959598,
       "size": 25195318,
       "checksum": "f7d764fdd0456c7972391bcd68350e81",
-      "level": 0,
+      "level": 1,
       "addedTime": 1585251181
     },
     {
@@ -1674,7 +1674,7 @@
       "lon": -117.2562,
       "size": 3022428,
       "checksum": "ebb2b42acacfba5c637f6770fd7652c6",
-      "level": 0,
+      "level": 1,
       "addedTime": 1585254823
     }
   ]
