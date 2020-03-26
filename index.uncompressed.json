@@ -1611,6 +1611,71 @@
       "checksum": "e1d4ebfc42def14ea4d6b797c314d3ee",
       "level": 1,
       "addedTime": 1584779436
+    },
+    {
+      "id": "0bf22176-9217-4ca4-9dc3-930d258efbe5",
+      "name": "Vulcan Materials Company",
+      "desc": "Hermitage, Nashville, TN, United States",
+      "zoom": 17.1,
+      "angleY": 100.0,
+      "lat": 36.1819012,
+      "lon": -86.6184457,
+      "size": 17150526,
+      "checksum": "a21ac83de84133db29bda928817d8b4f",
+      "level": 0,
+      "addedTime": 1585249159
+    },
+    {
+      "id": "953c373a-7485-436d-9067-0f2bfcdc4ba9",
+      "name": "Empower Field at Mile High",
+      "desc": "Denver, Colorado, United States",
+      "zoom": 18.1,
+      "angleY": 50.0,
+      "lat": 39.744,
+      "lon": -105.02,
+      "size": 7078492,
+      "checksum": "a3324ee2312d562e70831c7a64cc5098",
+      "level": 0,
+      "addedTime": 1585250464
+    },
+    {
+      "id": "550b82c8-8e59-42a8-92f3-fe3b07e36951",
+      "name": "Hyatt Regency San Francisco",
+      "desc": "Financial District, San Francisco, CA, United States",
+      "zoom": 18.1,
+      "angleY": 220.0,
+      "lat": 37.7944592,
+      "lon": -122.3959598,
+      "size": 25195318,
+      "checksum": "f7d764fdd0456c7972391bcd68350e81",
+      "level": 0,
+      "addedTime": 1585251181
+    },
+    {
+      "id": "57d14d90-7a1b-4c58-a375-7d5cbf484cc8",
+      "name": "Terminal A South",
+      "desc": "Boston, Massachusetts, United States",
+      "zoom": 18.1,
+      "angleY": 130.0,
+      "lat": 42.3633808,
+      "lon": -71.025015,
+      "size": 5651251,
+      "checksum": "0ce73c06164a6f2bb3d69f7a4767aec0",
+      "level": 0,
+      "addedTime": 1585252640
+    },
+    {
+      "id": "e401a0ac-4fff-4a71-9414-5a2d897725ad",
+      "name": "Sunset Cliffs",
+      "desc": "San Diego, California, United States",
+      "zoom": 19.1,
+      "angleY": 100.0,
+      "lat": 32.73012,
+      "lon": -117.2562,
+      "size": 3022428,
+      "checksum": "ebb2b42acacfba5c637f6770fd7652c6",
+      "level": 0,
+      "addedTime": 1585254823
     }
   ]
 }
