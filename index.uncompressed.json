@@ -1676,6 +1676,45 @@
       "checksum": "ebb2b42acacfba5c637f6770fd7652c6",
       "level": 1,
       "addedTime": 1585254823
+    },
+    {
+      "id": "1ec9a4a1-b156-4661-98bb-da9f8ef6d74a",
+      "name": "Brooklyn Bridge",
+      "desc": "Brooklyn, New York, United States",
+      "zoom": 18.1,
+      "angleY": 0.0,
+      "lat": 40.7043,
+      "lon": -73.9944,
+      "size": 9261774,
+      "checksum": "2973135c8a046c8ed9422137f3073474",
+      "level": 0,
+      "addedTime": 1585286811
+    },
+    {
+      "id": "29892d7d-aea3-494b-aaa8-09781928976f",
+      "name": "Union Terminal",
+      "desc": "Cincinnati, Ohio, United States",
+      "zoom": 18.1,
+      "angleY": 300.0,
+      "lat": 39.1099,
+      "lon": -84.5373,
+      "size": 7809574,
+      "checksum": "0d24e6000b5d493a0265c34565a75df2",
+      "level": 0,
+      "addedTime": 1585287102
+    },
+    {
+      "id": "b8f323a8-3fd9-4751-8759-ff9ce956df3d",
+      "name": "West Village Quad",
+      "desc": "Boston, Massachusetts, United States",
+      "zoom": 18.1,
+      "angleY": 100.0,
+      "lat": 42.3377182,
+      "lon": -71.0925162,
+      "size": 11273597,
+      "checksum": "4c4ab032b9826f1ca7ec2acbc6bf1865",
+      "level": 1,
+      "addedTime": 1585287525
     }
   ]
 }
