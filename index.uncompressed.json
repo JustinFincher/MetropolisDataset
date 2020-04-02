@@ -1717,17 +1717,30 @@
       "addedTime": 1585287525
     },
     {
-      "id": "481b811d-d0e4-4768-a739-c9bd4b660907",
-      "name": "Space Needle",
-      "desc": "Seattle, Washington, United States",
-      "zoom": 17.5,
-      "angleY": 250.0,
-      "lat": 47.6204,
-      "lon": -122.349,
-      "size": 13499237,
-      "checksum": "2c178f4fec8b15b25c06e9dd10d01c16",
+      "id": "ec332ba1-01f5-4398-b68a-8704ce84af49",
+      "name": "Cinderella Castle",
+      "desc": "Orlando, Florida, United States",
+      "zoom": 19.1,
+      "angleY": 60.0,
+      "lat": 28.4194838,
+      "lon": -81.5812337,
+      "size": 11880446,
+      "checksum": "ccfe22245e43ba17fd98aef98d5383f2",
       "level": 0,
-      "addedTime": 1585811129
+      "addedTime": 1585814418
+    },
+    {
+      "id": "c990069b-0105-43ca-b464-4716c4057dda",
+      "name": "Naughty Dog Inc",
+      "desc": "Santa Monica, California, United States",
+      "zoom": 18.1,
+      "angleY": 60.0,
+      "lat": 34.0285944,
+      "lon": -118.4712756,
+      "size": 14448548,
+      "checksum": "c2433e46c6629e8d4bf714c6bfed3f5b",
+      "level": 0,
+      "addedTime": 1585815407
     }
   ]
 }
