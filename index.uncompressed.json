@@ -1717,17 +1717,17 @@
       "addedTime": 1585287525
     },
     {
-      "id": "7bb0ff4f-bc1f-4eb9-887c-7e77f1501e3e",
+      "id": "481b811d-d0e4-4768-a739-c9bd4b660907",
       "name": "Space Needle",
       "desc": "Seattle, Washington, United States",
-      "zoom": 17.1,
-      "angleY": 0.0,
+      "zoom": 17.5,
+      "angleY": 250.0,
       "lat": 47.6204,
-      "lon": -122.35,
-      "size": 22825455,
-      "checksum": "b2ec195abc8b24cde7d5ee0c0ac53ee5",
+      "lon": -122.349,
+      "size": 13499237,
+      "checksum": "2c178f4fec8b15b25c06e9dd10d01c16",
       "level": 0,
-      "addedTime": 1585806578
+      "addedTime": 1585811129
     }
   ]
 }
