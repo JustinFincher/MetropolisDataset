@@ -1717,19 +1717,6 @@
       "addedTime": 1585287525
     },
     {
-      "id": "7fd8e7eb-3a3a-4e69-b217-20cd1608e36e",
-      "name": "T-Mobile Park",
-      "desc": "Seattle, Washington, United States",
-      "zoom": 17.1,
-      "angleY": 200.0,
-      "lat": 47.591,
-      "lon": -122.332,
-      "size": 11218022,
-      "checksum": "2d1d5a19f0cba67af8673b2ea993e6f8",
-      "level": 0,
-      "addedTime": 1585806335
-    },
-    {
       "id": "7bb0ff4f-bc1f-4eb9-887c-7e77f1501e3e",
       "name": "Space Needle",
       "desc": "Seattle, Washington, United States",
