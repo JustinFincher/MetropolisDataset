@@ -1741,6 +1741,71 @@
       "checksum": "c2433e46c6629e8d4bf714c6bfed3f5b",
       "level": 0,
       "addedTime": 1585815407
+    },
+    {
+      "id": "5a07f200-37ce-4148-9bbb-7a3debe868e0",
+      "name": "Water Tower",
+      "desc": "Winthrop, Massachusetts, United States",
+      "zoom": 18.1,
+      "angleY": 100.0,
+      "lat": 42.3677,
+      "lon": -70.968,
+      "size": 6925892,
+      "checksum": "c257099ff4cd5dd4af454b4b5f781ad3",
+      "level": 1,
+      "addedTime": 1585991331
+    },
+    {
+      "id": "fe3a9e31-8e0f-43f4-ad0d-e04b7e110f47",
+      "name": "Christian Science Church",
+      "desc": "Boston, Massachusetts, United States",
+      "zoom": 18.1,
+      "angleY": 270.0,
+      "lat": 42.3445,
+      "lon": -71.085,
+      "size": 13753731,
+      "checksum": "3eb436d25e5ef335c745eede9c9cd3f6",
+      "level": 0,
+      "addedTime": 1585991795
+    },
+    {
+      "id": "1fc570eb-6586-4cb3-afeb-429fe995ecc4",
+      "name": "Lungomare Nazario Sauro",
+      "desc": "Bari, Metropolitan City of Bari, Italy",
+      "zoom": 18.1,
+      "angleY": 270.0,
+      "lat": 41.1217777,
+      "lon": 16.8799098,
+      "size": 17886879,
+      "checksum": "e468e65cd567bf742f68c340cef6e62d",
+      "level": 1,
+      "addedTime": 1585992119
+    },
+    {
+      "id": "cebcb786-8118-47ac-a54e-4e980a1bd7bc",
+      "name": "Rialto Bridge",
+      "desc": "Venice, Metropolitan City of Venice, Italy",
+      "zoom": 18.1,
+      "angleY": 270.0,
+      "lat": 45.4384932,
+      "lon": 12.3356498,
+      "size": 15448593,
+      "checksum": "4d292bd7bb1dfdfff3a858de03be8a60",
+      "level": 0,
+      "addedTime": 1585992293
+    },
+    {
+      "id": "75f45d36-5d0c-4871-8c88-2649f4e16b94",
+      "name": "Stadio Marcantonio Bentegodi",
+      "desc": "Verona, Province of Verona, Italy",
+      "zoom": 18.1,
+      "angleY": 0.0,
+      "lat": 45.4354225,
+      "lon": 10.9685399,
+      "size": 17212703,
+      "checksum": "3da4dd049508816cd6a80811d8794982",
+      "level": 1,
+      "addedTime": 1585992684
     }
   ]
 }
