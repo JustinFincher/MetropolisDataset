@@ -1806,6 +1806,19 @@
       "checksum": "3da4dd049508816cd6a80811d8794982",
       "level": 1,
       "addedTime": 1585992684
+    },
+    {
+      "id": "75089d4f-7376-430f-828c-9d64f7fa47b0",
+      "name": "One World Trade Center",
+      "desc": "New York, United States",
+      "zoom": 17.1,
+      "angleY": 80.0,
+      "lat": 40.7131,
+      "lon": -74.012,
+      "size": 31376304,
+      "checksum": "9d116334864b2f547612cd7f9d6dae5d",
+      "level": 0,
+      "addedTime": 1586198325
     }
   ]
 }
