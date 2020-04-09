@@ -1819,6 +1819,45 @@
       "checksum": "9d116334864b2f547612cd7f9d6dae5d",
       "level": 0,
       "addedTime": 1586198325
+    },
+    {
+      "id": "4fafc650-0d64-4ad2-a4d4-5b90d10c0428",
+      "name": "Flatiron Building",
+      "desc": "New York, United States",
+      "zoom": 18.1,
+      "angleY": 140.0,
+      "lat": 40.7411697,
+      "lon": -73.9895505,
+      "size": 28335918,
+      "checksum": "20148c0054172d374c8f71d8945a40b4",
+      "level": 0,
+      "addedTime": 1586463852
+    },
+    {
+      "id": "a8372dfb-20ba-49dc-b2fc-9e5b8a1d5a1d",
+      "name": "Downtown Aquarium",
+      "desc": "Theater District, Houston, TX, United States",
+      "zoom": 19.1,
+      "angleY": 0.0,
+      "lat": 29.7643834,
+      "lon": -95.367821,
+      "size": 11195243,
+      "checksum": "4700e4367d861148cba5728c361f1c60",
+      "level": 1,
+      "addedTime": 1586464163
+    },
+    {
+      "id": "b7fd99e6-761f-41a7-9e26-533cde9dc373",
+      "name": "Hsi Lai Temple",
+      "desc": "Hacienda Heights, California, United States",
+      "zoom": 19.1,
+      "angleY": 300.0,
+      "lat": 34.00291,
+      "lon": -118.0225,
+      "size": 8466914,
+      "checksum": "aa7a51211d7c8dc0bdef8f65b2a00c51",
+      "level": 1,
+      "addedTime": 1586466107
     }
   ]
 }
