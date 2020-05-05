@@ -1910,6 +1910,19 @@
       "checksum": "7d38f72e4ca20d44ef5b5bc50a644371",
       "level": 0,
       "addedTime": 1586798255
+    },
+    {
+      "id": "f60ea348-94c3-46c5-94da-e3a3459f0aa1",
+      "name": "Sycamore Beach Park",
+      "desc": "Chico, California, United States",
+      "zoom": 18.1,
+      "angleY": 200.0,
+      "lat": 39.7502934,
+      "lon": -121.7904866,
+      "size": 11734214,
+      "checksum": "1475f060da97d92596c8a972cdc8c5fc",
+      "level": 0,
+      "addedTime": 1588603673
     }
   ]
 }
