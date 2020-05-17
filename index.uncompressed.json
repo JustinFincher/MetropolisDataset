@@ -1923,6 +1923,19 @@
       "checksum": "1475f060da97d92596c8a972cdc8c5fc",
       "level": 0,
       "addedTime": 1588603673
+    },
+    {
+      "id": "2fea315b-b2d0-45d2-b5e0-c4c9a87f4185",
+      "name": "Kansas City Symphony",
+      "desc": "Kansas City, Missouri, United States",
+      "zoom": 18.1,
+      "angleY": 100.0,
+      "lat": 39.0942599,
+      "lon": -94.5874015,
+      "size": 6710215,
+      "checksum": "acd89595a9afb0d657a0793c43a8e7a0",
+      "level": 0,
+      "addedTime": 1589712643
     }
   ]
 }
