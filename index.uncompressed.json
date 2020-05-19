@@ -1936,6 +1936,45 @@
       "checksum": "acd89595a9afb0d657a0793c43a8e7a0",
       "level": 0,
       "addedTime": 1589712643
+    },
+    {
+      "id": "285018ce-7670-4b4a-bee9-3ba3daac5a45",
+      "name": "55 E Pearson St",
+      "desc": "Chicago, Illinois, United States",
+      "zoom": 18.1,
+      "angleY": 70.0,
+      "lat": 41.8972173,
+      "lon": -87.6261946,
+      "size": 24093651,
+      "checksum": "ca2f9a114592520be77b73c2cec53f37",
+      "level": 1,
+      "addedTime": 1589872730
+    },
+    {
+      "id": "c42067c6-5a9e-44d0-bf29-d0af865f94e3",
+      "name": "Presbyterian St. Luke's Medical Center",
+      "desc": "Denver, Colorado, United States",
+      "zoom": 18.1,
+      "angleY": 20.0,
+      "lat": 39.7474222,
+      "lon": -104.968041,
+      "size": 12935369,
+      "checksum": "e6d48d265e9f704064220a29a0a7ddff",
+      "level": 0,
+      "addedTime": 1589873586
+    },
+    {
+      "id": "9d3cddb6-ffbc-4bf6-9ab0-58843889aa17",
+      "name": "Robertson St",
+      "desc": "Larrakeyah, Northern Territory, Australia",
+      "zoom": 19.1,
+      "angleY": 0.0,
+      "lat": -12.457,
+      "lon": 130.8194,
+      "size": 13605036,
+      "checksum": "9b6076fcb5016def4a3f390a315615fe",
+      "level": 1,
+      "addedTime": 1589874737
     }
   ]
 }
