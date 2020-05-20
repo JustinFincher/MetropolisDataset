@@ -75,7 +75,7 @@
       "lon": -71.05538,
       "size": 10450999,
       "checksum": "bd24e4e0442e6cff9eaf9125353286d5",
-      "level": 0,
+      "level": 2,
       "addedTime": 1582105467
     },
     {
@@ -114,7 +114,7 @@
       "lon": -75.1809353,
       "size": 10358279,
       "checksum": "b90265daf6eb855322dcd1c2a0c1531a",
-      "level": 0,
+      "level": 1,
       "addedTime": 1582106229
     },
     {
@@ -140,7 +140,7 @@
       "lon": -76.6617,
       "size": 11351080,
       "checksum": "9546099c4bb0d288e5b1948c31d3e019",
-      "level": 0,
+      "level": 2,
       "addedTime": 1582106522
     },
     {
@@ -179,7 +179,7 @@
       "lon": -73.9857,
       "size": 41028182,
       "checksum": "28be143d1080cf1679d7906232800bdc",
-      "level": 0,
+      "level": 1,
       "addedTime": 1582137606
     },
     {
@@ -231,7 +231,7 @@
       "lon": -71.2060000001971,
       "size": 6655702,
       "checksum": "eb73a873a588b8cfa3bf2e63ff328062",
-      "level": 0,
+      "level": 2,
       "addedTime": 1582139128
     },
     {
@@ -270,7 +270,7 @@
       "lon": -80.0063226,
       "size": 10696689,
       "checksum": "cb54557cd9fb1b76281b6702ca3ed2c8",
-      "level": 0,
+      "level": 2,
       "addedTime": 1582139757
     },
     {
@@ -309,7 +309,7 @@
       "lon": -84.3836,
       "size": 29338329,
       "checksum": "c28de91e2c335c4a213b08c6ff0410e6",
-      "level": 0,
+      "level": 2,
       "addedTime": 1582141151
     },
     {
@@ -335,7 +335,7 @@
       "lon": -81.694,
       "size": 11956083,
       "checksum": "f1977b68dd52ca29e940548e58f45aa9",
-      "level": 0,
+      "level": 1,
       "addedTime": 1582144795
     },
     {
@@ -387,7 +387,7 @@
       "lon": -81.6859985393138,
       "size": 12354191,
       "checksum": "43f743882341e49fb1f1f58b903dffd2",
-      "level": 0,
+      "level": 1,
       "addedTime": 1582284171
     },
     {
@@ -426,7 +426,7 @@
       "lon": -79.995,
       "size": 12253006,
       "checksum": "cd59a372b41354b2b236aa9c459185ac",
-      "level": 0,
+      "level": 2,
       "addedTime": 1582285160
     },
     {
@@ -478,7 +478,7 @@
       "lon": -115.172,
       "size": 17476415,
       "checksum": "c6243ce2d42bc1ba8ec8fe8f7b74b0c5",
-      "level": 0,
+      "level": 1,
       "addedTime": 1582317240
     },
     {
@@ -504,7 +504,7 @@
       "lon": -104.8908,
       "size": 5952866,
       "checksum": "038916c73aaf9408986de14d1aa350e5",
-      "level": 0,
+      "level": 2,
       "addedTime": 1582496045
     },
     {
@@ -517,7 +517,7 @@
       "lon": -80.1222711,
       "size": 22465034,
       "checksum": "12eea8fc7ab2e84afbc6cfe3c3561bb7",
-      "level": 0,
+      "level": 1,
       "addedTime": 1582496153
     },
     {
@@ -595,7 +595,7 @@
       "lon": -117.1571197,
       "size": 19422939,
       "checksum": "eb7088f911a87093c8bfbc8c8544f44d",
-      "level": 0,
+      "level": 1,
       "addedTime": 1582582623
     },
     {
@@ -660,7 +660,7 @@
       "lon": -97.133426,
       "size": 10014162,
       "checksum": "83f2c468b89f8ead4ddbec17fb7abf97",
-      "level": 0,
+      "level": 2,
       "addedTime": 1582584883
     },
     {
@@ -764,7 +764,7 @@
       "lon": -115.165,
       "size": 19667026,
       "checksum": "57b0a93deb7ab3ff576720132ccc1c64",
-      "level": 0,
+      "level": 1,
       "addedTime": 1582738666
     },
     {
@@ -842,7 +842,7 @@
       "lon": -86.1580959,
       "size": 13150994,
       "checksum": "f1b848f214a2b100869d8327b8667994",
-      "level": 0,
+      "level": 2,
       "addedTime": 1582923352
     },
     {
@@ -855,7 +855,7 @@
       "lon": -86.1604,
       "size": 11911254,
       "checksum": "43142de1b7432c99b358ba8db6eac360",
-      "level": 0,
+      "level": 1,
       "addedTime": 1582923664
     },
     {
@@ -907,7 +907,7 @@
       "lon": 12.5724203,
       "size": 11973448,
       "checksum": "0e61a953a0845bd99ddca5061a1ab8c7",
-      "level": 0,
+      "level": 1,
       "addedTime": 1583001579
     },
     {
@@ -946,7 +946,7 @@
       "lon": 12.55801,
       "size": 5563202,
       "checksum": "6c80301b30ecee01494503bfc352096a",
-      "level": 0,
+      "level": 2,
       "addedTime": 1583002462
     },
     {
@@ -1284,7 +1284,7 @@
       "lon": -93.268,
       "size": 15285967,
       "checksum": "fd9dc22283cc51928d630c867dc5fdf3",
-      "level": 0,
+      "level": 2,
       "addedTime": 1584128432
     },
     {
@@ -1336,7 +1336,7 @@
       "lon": -71.415,
       "size": 17353769,
       "checksum": "c3aeaef06046bd9c9d9c26151da8be93",
-      "level": 0,
+      "level": 2,
       "addedTime": 1584131654
     },
     {
@@ -1375,7 +1375,7 @@
       "lon": -83.0316,
       "size": 4540158,
       "checksum": "35bb83474e6eedd488d7d266c5d237a1",
-      "level": 0,
+      "level": 1,
       "addedTime": 1584206854
     },
     {
@@ -1752,7 +1752,7 @@
       "lon": -70.968,
       "size": 6925892,
       "checksum": "c257099ff4cd5dd4af454b4b5f781ad3",
-      "level": 1,
+      "level": 2,
       "addedTime": 1585991331
     },
     {
@@ -1975,6 +1975,32 @@
       "checksum": "9b6076fcb5016def4a3f390a315615fe",
       "level": 1,
       "addedTime": 1589874737
+    },
+    {
+      "id": "e5d8cea1-1f41-422e-bf89-31d9dda1c356",
+      "name": "1735 Market St",
+      "desc": "Philadelphia, PA 19103, United States",
+      "zoom": 18.1,
+      "angleY": 315.0,
+      "lat": 39.9534807,
+      "lon": -75.1695885,
+      "size": 19425900,
+      "checksum": "59de917ea953e0512dcf97e60dc3fd36",
+      "level": 2,
+      "addedTime": 1589956031
+    },
+    {
+      "id": "b414f489-51bc-43ce-82ce-cdbb27476960",
+      "name": "Shepard Hall",
+      "desc": "160 Convent Ave, New York, NY 10031, United States",
+      "zoom": 18.1,
+      "angleY": 60.0,
+      "lat": 40.8203532,
+      "lon": -73.9485945,
+      "size": 26690176,
+      "checksum": "8717af735d034526051cf48114e7f2bc",
+      "level": 0,
+      "addedTime": 1589956999
     }
   ]
 }
