@@ -140,7 +140,7 @@
       "lon": -76.6617,
       "size": 11351080,
       "checksum": "9546099c4bb0d288e5b1948c31d3e019",
-      "level": 0,
+      "level": 2,
       "addedTime": 1582106522
     },
     {
@@ -270,7 +270,7 @@
       "lon": -80.0063226,
       "size": 10696689,
       "checksum": "cb54557cd9fb1b76281b6702ca3ed2c8",
-      "level": 1,
+      "level": 2,
       "addedTime": 1582139757
     },
     {
@@ -387,7 +387,7 @@
       "lon": -81.6859985393138,
       "size": 12354191,
       "checksum": "43f743882341e49fb1f1f58b903dffd2",
-      "level": 0,
+      "level": 1,
       "addedTime": 1582284171
     },
     {
@@ -504,7 +504,7 @@
       "lon": -104.8908,
       "size": 5952866,
       "checksum": "038916c73aaf9408986de14d1aa350e5",
-      "level": 0,
+      "level": 2,
       "addedTime": 1582496045
     },
     {
@@ -517,7 +517,7 @@
       "lon": -80.1222711,
       "size": 22465034,
       "checksum": "12eea8fc7ab2e84afbc6cfe3c3561bb7",
-      "level": 2,
+      "level": 1,
       "addedTime": 1582496153
     },
     {
@@ -1336,7 +1336,7 @@
       "lon": -71.415,
       "size": 17353769,
       "checksum": "c3aeaef06046bd9c9d9c26151da8be93",
-      "level": 0,
+      "level": 2,
       "addedTime": 1584131654
     },
     {
