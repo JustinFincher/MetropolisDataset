@@ -75,7 +75,7 @@
       "lon": -71.05538,
       "size": 10450999,
       "checksum": "bd24e4e0442e6cff9eaf9125353286d5",
-      "level": 0,
+      "level": 2,
       "addedTime": 1582105467
     },
     {
@@ -114,7 +114,7 @@
       "lon": -75.1809353,
       "size": 10358279,
       "checksum": "b90265daf6eb855322dcd1c2a0c1531a",
-      "level": 0,
+      "level": 1,
       "addedTime": 1582106229
     },
     {
@@ -179,7 +179,7 @@
       "lon": -73.9857,
       "size": 41028182,
       "checksum": "28be143d1080cf1679d7906232800bdc",
-      "level": 0,
+      "level": 1,
       "addedTime": 1582137606
     },
     {
@@ -231,7 +231,7 @@
       "lon": -71.2060000001971,
       "size": 6655702,
       "checksum": "eb73a873a588b8cfa3bf2e63ff328062",
-      "level": 0,
+      "level": 2,
       "addedTime": 1582139128
     },
     {
@@ -270,7 +270,7 @@
       "lon": -80.0063226,
       "size": 10696689,
       "checksum": "cb54557cd9fb1b76281b6702ca3ed2c8",
-      "level": 0,
+      "level": 1,
       "addedTime": 1582139757
     },
     {
@@ -309,7 +309,7 @@
       "lon": -84.3836,
       "size": 29338329,
       "checksum": "c28de91e2c335c4a213b08c6ff0410e6",
-      "level": 0,
+      "level": 2,
       "addedTime": 1582141151
     },
     {
@@ -335,7 +335,7 @@
       "lon": -81.694,
       "size": 11956083,
       "checksum": "f1977b68dd52ca29e940548e58f45aa9",
-      "level": 0,
+      "level": 1,
       "addedTime": 1582144795
     },
     {
@@ -426,7 +426,7 @@
       "lon": -79.995,
       "size": 12253006,
       "checksum": "cd59a372b41354b2b236aa9c459185ac",
-      "level": 0,
+      "level": 2,
       "addedTime": 1582285160
     },
     {
@@ -478,7 +478,7 @@
       "lon": -115.172,
       "size": 17476415,
       "checksum": "c6243ce2d42bc1ba8ec8fe8f7b74b0c5",
-      "level": 0,
+      "level": 1,
       "addedTime": 1582317240
     },
     {
@@ -517,7 +517,7 @@
       "lon": -80.1222711,
       "size": 22465034,
       "checksum": "12eea8fc7ab2e84afbc6cfe3c3561bb7",
-      "level": 0,
+      "level": 2,
       "addedTime": 1582496153
     },
     {
@@ -595,7 +595,7 @@
       "lon": -117.1571197,
       "size": 19422939,
       "checksum": "eb7088f911a87093c8bfbc8c8544f44d",
-      "level": 0,
+      "level": 1,
       "addedTime": 1582582623
     },
     {
@@ -660,7 +660,7 @@
       "lon": -97.133426,
       "size": 10014162,
       "checksum": "83f2c468b89f8ead4ddbec17fb7abf97",
-      "level": 0,
+      "level": 2,
       "addedTime": 1582584883
     },
     {
@@ -764,7 +764,7 @@
       "lon": -115.165,
       "size": 19667026,
       "checksum": "57b0a93deb7ab3ff576720132ccc1c64",
-      "level": 0,
+      "level": 1,
       "addedTime": 1582738666
     },
     {
@@ -842,7 +842,7 @@
       "lon": -86.1580959,
       "size": 13150994,
       "checksum": "f1b848f214a2b100869d8327b8667994",
-      "level": 0,
+      "level": 2,
       "addedTime": 1582923352
     },
     {
@@ -855,7 +855,7 @@
       "lon": -86.1604,
       "size": 11911254,
       "checksum": "43142de1b7432c99b358ba8db6eac360",
-      "level": 0,
+      "level": 1,
       "addedTime": 1582923664
     },
     {
@@ -907,7 +907,7 @@
       "lon": 12.5724203,
       "size": 11973448,
       "checksum": "0e61a953a0845bd99ddca5061a1ab8c7",
-      "level": 0,
+      "level": 1,
       "addedTime": 1583001579
     },
     {
@@ -946,7 +946,7 @@
       "lon": 12.55801,
       "size": 5563202,
       "checksum": "6c80301b30ecee01494503bfc352096a",
-      "level": 0,
+      "level": 2,
       "addedTime": 1583002462
     },
     {
@@ -1284,7 +1284,7 @@
       "lon": -93.268,
       "size": 15285967,
       "checksum": "fd9dc22283cc51928d630c867dc5fdf3",
-      "level": 0,
+      "level": 2,
       "addedTime": 1584128432
     },
     {
@@ -1375,7 +1375,7 @@
       "lon": -83.0316,
       "size": 4540158,
       "checksum": "35bb83474e6eedd488d7d266c5d237a1",
-      "level": 0,
+      "level": 1,
       "addedTime": 1584206854
     },
     {
@@ -1752,7 +1752,7 @@
       "lon": -70.968,
       "size": 6925892,
       "checksum": "c257099ff4cd5dd4af454b4b5f781ad3",
-      "level": 1,
+      "level": 2,
       "addedTime": 1585991331
     },
     {
