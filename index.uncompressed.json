@@ -1975,6 +1975,32 @@
       "checksum": "9b6076fcb5016def4a3f390a315615fe",
       "level": 1,
       "addedTime": 1589874737
+    },
+    {
+      "id": "e5d8cea1-1f41-422e-bf89-31d9dda1c356",
+      "name": "1735 Market St",
+      "desc": "Philadelphia, PA 19103, United States",
+      "zoom": 18.1,
+      "angleY": 315.0,
+      "lat": 39.9534807,
+      "lon": -75.1695885,
+      "size": 19425900,
+      "checksum": "59de917ea953e0512dcf97e60dc3fd36",
+      "level": 2,
+      "addedTime": 1589956031
+    },
+    {
+      "id": "b414f489-51bc-43ce-82ce-cdbb27476960",
+      "name": "Shepard Hall",
+      "desc": "160 Convent Ave, New York, NY 10031, United States",
+      "zoom": 18.1,
+      "angleY": 60.0,
+      "lat": 40.8203532,
+      "lon": -73.9485945,
+      "size": 26690176,
+      "checksum": "8717af735d034526051cf48114e7f2bc",
+      "level": 0,
+      "addedTime": 1589956999
     }
   ]
 }
